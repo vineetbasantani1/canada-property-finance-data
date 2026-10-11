@@ -9,7 +9,7 @@ import requests
 from sources import BOC_SERIES
 
 VALET = "https://www.bankofcanada.ca/valet"
-OUT = Path("data/raw/boc")
+OUT = Path("data/boc")
 MANIFEST = Path("data/manifest.json")
 
 

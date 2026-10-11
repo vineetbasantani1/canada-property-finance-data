@@ -19,9 +19,9 @@ The full list with table IDs is in [`sources.py`](sources.py).
 
 ```
 data/
-  raw/statcan/<id>.csv.gz      full national tables
-  raw/boc/boc_rates.csv        interest-rate and FX series
-  provincial/<id>_ns.csv       Canada / Nova Scotia / NS-city rows only
+  statcan/<id>.csv             Canada, Nova Scotia and NS-city rows of each table
+                               (.csv.gz if over 40 MB; full national tables are not stored)
+  boc/boc_rates.csv            interest-rate and FX series
   catalog/open_data_catalog.csv
   manifest.json                official title, row count, latest period, source link per dataset
 ```
