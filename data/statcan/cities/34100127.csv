@@ -1,0 +1,1662 @@
+REF_DATE,GEO,DGUID,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+1971,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.9,,,,1
+1971,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,6.7,,,,1
+1971,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,5.1,,,,1
+1971,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.0,,,,1
+1971,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.7,,,,1
+1971,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.1,,,,1
+1971,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.0,,,,1
+1971,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.5,,,,1
+1971,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,4.4,,,t,1
+1971,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.8,,,,1
+1971,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.6,,,,1
+1971,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.3,,,,1
+1971,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,3.9,,,,1
+1971,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.0,,,,1
+1971,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.0,,,,1
+1971,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.0,,,,1
+1971,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.6,,,,1
+1971,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.8,,,,1
+1971,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.0,,,,1
+1971,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.9,,,,1
+1971,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.7,,,,1
+1972,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+1972,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,6.6,,,,1
+1972,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,6.0,,,,1
+1972,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,5.4,,,,1
+1972,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.7,,,,1
+1972,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.8,,,,1
+1972,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.6,,,,1
+1972,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.4,,,,1
+1972,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,2.9,,,t,1
+1972,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.8,,,,1
+1972,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.6,,,,1
+1972,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.3,,,,1
+1972,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,4.5,,,,1
+1972,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.0,,,,1
+1972,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.4,,,,1
+1972,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.0,,,,1
+1972,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,0.7,,,,1
+1972,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.5,,,,1
+1972,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.9,,,,1
+1972,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,2.5,,,,1
+1972,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.6,,,,1
+1972,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.8,,,,1
+1972,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.6,,,,1
+1972,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,4.4,,,,1
+1973,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.2,,,,1
+1973,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,7.9,,,,1
+1973,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,5.3,,,,1
+1973,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,10.9,,,,1
+1973,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.3,,,,1
+1973,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.3,,,,1
+1973,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.8,,,,1
+1973,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.9,,,,1
+1973,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,1.9,,,t,1
+1973,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.0,,,,1
+1973,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.0,,,,1
+1973,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.0,,,,1
+1973,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.8,,,,1
+1973,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.0,,,,1
+1973,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,4.7,,,,1
+1973,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.2,,,,1
+1973,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,0.8,,,,1
+1973,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.3,,,,1
+1973,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.0,,,,1
+1973,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.5,,,,1
+1973,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.4,,,,1
+1973,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.3,,,,1
+1973,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.0,,,,1
+1973,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,3.5,,,,1
+1974,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.2,,,,1
+1974,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.1,,,,1
+1974,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,0.8,,,,1
+1974,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,5.1,,,,1
+1974,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.3,,,,1
+1974,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.5,,,,1
+1974,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.5,,,,1
+1974,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.2,,,,1
+1974,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,1.2,,,t,1
+1974,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.8,,,,1
+1974,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.9,,,,1
+1974,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.5,,,,1
+1974,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.6,,,,1
+1974,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.1,,,,1
+1974,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.9,,,,1
+1974,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.3,,,,1
+1974,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.1,,,,1
+1974,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.2,,,,1
+1974,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.5,,,,1
+1974,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.1,,,,1
+1974,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.1,,,,1
+1974,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.1,,,,1
+1974,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.7,,,,1
+1974,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.7,,,,1
+1975,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.2,,,,1
+1975,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.4,,,,1
+1975,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,0.3,,,,1
+1975,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.2,,,,1
+1975,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.8,,,,1
+1975,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.0,,,,1
+1975,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.3,,,,1
+1975,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.4,,,,1
+1975,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,0.7,,,t,1
+1975,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.7,,,,1
+1975,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.3,,,,1
+1975,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.9,,,,1
+1975,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.4,,,,1
+1975,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.0,,,,1
+1975,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.9,,,,1
+1975,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,3.7,,,,1
+1975,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.1,,,,1
+1975,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.0,,,,1
+1975,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.5,,,,1
+1975,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.8,,,,1
+1975,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.1,,,,1
+1975,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.1,,,,1
+1975,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.6,,,,1
+1975,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.1,,,,1
+1976,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.3,,,,1
+1976,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.1,,,,1
+1976,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,0.0,,,,1
+1976,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.5,,,,1
+1976,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.4,,,,1
+1976,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.0,,,,1
+1976,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.4,,,,1
+1976,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.5,,,,1
+1976,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,1.3,,,t,1
+1976,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.4,,,,1
+1976,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.2,,,,1
+1976,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,8.8,,,,1
+1976,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.7,,,,1
+1976,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.1,,,,1
+1976,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.3,,,,1
+1976,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.1,,,,1
+1976,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,0.9,,,,1
+1976,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.1,,,,1
+1976,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.2,,,,1
+1976,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.2,,,,1
+1976,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.7,,,,1
+1976,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.6,,,,1
+1976,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.8,,,,1
+1976,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.4,,,,1
+1977,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.3,,,,1
+1977,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.1,,,,1
+1977,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,0.1,,,,1
+1977,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.2,,,,1
+1977,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.5,,,,1
+1977,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,4.2,,,,1
+1977,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.6,,,,1
+1977,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.8,,,,1
+1977,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,3.6,,,t,1
+1977,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.3,,,,1
+1977,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.2,,,,1
+1977,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.3,,,,1
+1977,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,6.7,,,,1
+1977,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.9,,,,1
+1977,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.1,,,,1
+1977,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.1,,,,1
+1977,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.8,,,,1
+1977,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,0.3,,,,1
+1977,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.2,,,,1
+1977,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.3,,,,1
+1977,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.0,,,,1
+1977,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.6,,,,1
+1977,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.5,,,,1
+1977,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,0.8,,,,1
+1977,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.9,,,,1
+1978,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.2,,,,1
+1978,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.2,,,,1
+1978,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,0.8,,,,1
+1978,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,7.0,,,,1
+1978,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.2,,,,1
+1978,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.5,,,,1
+1978,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.6,,,,1
+1978,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.3,,,,1
+1978,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,5.5,,,t,1
+1978,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.6,,,,1
+1978,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.4,,,,1
+1978,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.5,,,,1
+1978,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,6.7,,,,1
+1978,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,3.6,,,,1
+1978,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.0,,,,1
+1978,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.4,,,,1
+1978,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,7.7,,,,1
+1978,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,0.4,,,,1
+1978,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.8,,,,1
+1978,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.4,,,,1
+1978,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.8,,,,1
+1978,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.4,,,,1
+1978,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.1,,,,1
+1978,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.1,,,,1
+1978,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,3.9,,,,1
+1979,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.9,,,,1
+1979,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.4,,,,1
+1979,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.9,,,,1
+1979,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,5.6,,,,1
+1979,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.4,,,,1
+1979,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.8,,,,1
+1979,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.9,,,,1
+1979,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.7,,,,1
+1979,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,4.5,,,t,1
+1979,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,4.1,,,,1
+1979,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,4.1,,,,1
+1979,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.5,,,,1
+1979,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,7.0,,,,1
+1979,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,4.4,,,,1
+1979,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.9,,,,1
+1979,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.6,,,,1
+1979,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.9,,,,1
+1979,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.3,,,,1
+1979,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.8,,,,1
+1979,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.7,,,,1
+1979,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.2,,,,1
+1979,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.2,,,,1
+1979,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.1,,,,1
+1979,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.3,,,,1
+1979,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.0,,,,1
+1980,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.2,,,,1
+1980,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.4,,,,1
+1980,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.1,,,,1
+1980,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.9,,,,1
+1980,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.2,,,,1
+1980,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.3,,,,1
+1980,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.1,,,,1
+1980,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.1,,,,1
+1980,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,3.4,,,t,1
+1980,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.4,,,,1
+1980,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.9,,,,1
+1980,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.5,,,,1
+1980,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,5.8,,,,1
+1980,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.8,,,,1
+1980,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.7,,,,1
+1980,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.8,,,,1
+1980,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.1,,,,1
+1980,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.4,,,,1
+1980,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.5,,,,1
+1980,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.0,,,,1
+1980,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.5,,,,1
+1980,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.1,,,,1
+1980,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.1,,,,1
+1980,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,6.1,,,,1
+1980,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.1,,,,1
+1981,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.2,,,,1
+1981,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.2,,,,1
+1981,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.1,,,,1
+1981,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.6,,,,1
+1981,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.5,,,,1
+1981,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.7,,,,1
+1981,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.7,,,,1
+1981,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.9,,,,1
+1981,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,1.9,,,t,1
+1981,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.0,,,,1
+1981,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,0.9,,,,1
+1981,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.6,,,,1
+1981,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.3,,,,1
+1981,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.8,,,,1
+1981,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.5,,,,1
+1981,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,0.8,,,,1
+1981,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.4,,,,1
+1981,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.3,,,,1
+1981,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.8,,,,1
+1981,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.1,,,,1
+1981,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.3,,,,1
+1981,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.1,,,,1
+1981,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.1,,,,1
+1981,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,7.0,,,,1
+1981,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,3.5,,,,1
+1982,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.1,,,,1
+1982,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,6.3,,,,1
+1982,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.6,,,,1
+1982,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.5,,,,1
+1982,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.6,,,,1
+1982,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.6,,,,1
+1982,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.0,,,,1
+1982,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.0,,,,1
+1982,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,2.7,,,t,1
+1982,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.5,,,,1
+1982,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,0.3,,,,1
+1982,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.2,,,,1
+1982,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,0.5,,,,1
+1982,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,4.8,,,,1
+1982,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.3,,,,1
+1982,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.6,,,,1
+1982,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.1,,,,1
+1982,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,4.7,,,,1
+1982,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.1,,,,1
+1982,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.6,,,,1
+1982,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.7,,,,1
+1982,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.8,,,,1
+1982,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.9,,,,1
+1982,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.5,,,,1
+1982,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.4,,,,1
+1982,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.4,,,,1
+1983,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+1983,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,12.3,,,,1
+1983,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,9.5,,,,1
+1983,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.5,,,,1
+1983,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.9,,,,1
+1983,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.8,,,,1
+1983,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.9,,,,1
+1983,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.8,,,,1
+1983,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,3.2,,,t,1
+1983,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.5,,,,1
+1983,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,0.3,,,,1
+1983,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.3,,,,1
+1983,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,0.7,,,,1
+1983,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,5.2,,,,1
+1983,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.1,,,,1
+1983,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.0,,,,1
+1983,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,4.2,,,,1
+1983,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.3,,,,1
+1983,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.3,,,,1
+1983,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.4,,,,1
+1983,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.0,,,,1
+1983,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.4,,,,1
+1983,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.3,,,,1
+1983,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.1,,,,1
+1983,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.0,,,,1
+1983,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,0.9,,,,1
+1984,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.2,,,,1
+1984,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,9.6,,,,1
+1984,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,9.5,,,,1
+1984,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.8,,,,1
+1984,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.4,,,,1
+1984,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.5,,,,1
+1984,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.6,,,,1
+1984,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.0,,,,1
+1984,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,2.5,,,t,1
+1984,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.3,,,,1
+1984,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,0.4,,,,1
+1984,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.3,,,,1
+1984,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,0.8,,,,1
+1984,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.9,,,,1
+1984,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.8,,,,1
+1984,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,0.8,,,,1
+1984,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.8,,,,1
+1984,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.7,,,,1
+1984,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.1,,,,1
+1984,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.4,,,,1
+1984,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.6,,,,1
+1984,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.2,,,,1
+1984,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.2,,,,1
+1984,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.2,,,,1
+1984,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,0.7,,,,1
+1984,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,0.8,,,,1
+1985,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.4,,,,1
+1985,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.7,,,,1
+1985,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.4,,,,1
+1985,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.6,,,,1
+1985,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.6,,,,1
+1985,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.4,,,,1
+1985,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.4,,,,1
+1985,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,0.4,,,,1
+1985,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,1.6,,,t,1
+1985,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.1,,,,1
+1985,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.3,,,,1
+1985,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.8,,,,1
+1985,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.3,,,,1
+1985,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.5,,,,1
+1985,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.1,,,,1
+1985,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,0.3,,,,1
+1985,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.0,,,,1
+1985,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,3.2,,,,1
+1985,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.5,,,,1
+1985,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.9,,,,1
+1985,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.6,,,,1
+1985,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.4,,,,1
+1985,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.1,,,,1
+1985,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.2,,,,1
+1985,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.9,,,,1
+1985,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,0.7,,,,1
+1985,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,0.9,,,,1
+1986,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.6,,,,1
+1986,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,3.9,,,,1
+1986,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.1,,,,1
+1986,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.9,,,,1
+1986,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.3,,,,1
+1986,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.3,,,,1
+1986,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.2,,,,1
+1986,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,0.7,,,,1
+1986,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,1.8,,,t,1
+1986,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.2,,,,1
+1986,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.0,,,,1
+1986,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.9,,,,1
+1986,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,8.2,,,,1
+1986,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,3.2,,,,1
+1986,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.4,,,,1
+1986,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,0.8,,,,1
+1986,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,4.9,,,,1
+1986,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,9.0,,,,1
+1986,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.8,,,,1
+1986,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,2.7,,,,1
+1986,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.4,,,,1
+1986,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.1,,,,1
+1986,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,6.7,,,,1
+1986,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.9,,,,1
+1986,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.6,,,,1
+1986,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.0,,,,1
+1986,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.6,,,,1
+1987,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.5,,,,1
+1987,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,4.3,,,,1
+1987,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,5.6,,,,1
+1987,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.0,,,,1
+1987,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,4.4,,,,1
+1987,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.3,,,,1
+1987,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.2,,,,1
+1987,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.0,,,,1
+1987,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,3.6,,,t,1
+1987,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.3,,,,1
+1987,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.1,,,,1
+1987,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.6,,,,1
+1987,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,10.7,,,,1
+1987,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,5.6,,,,1
+1987,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.6,,,,1
+1987,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,0.5,,,,1
+1987,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,10.1,,,,1
+1987,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,10.5,,,,1
+1987,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,4.3,,,,1
+1987,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,6.5,,,,1
+1987,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.1,,,,1
+1987,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.1,,,,1
+1987,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,9.0,,,,1
+1987,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.1,,,,1
+1987,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.4,,,,1
+1987,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,0.7,,,,1
+1987,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.8,,,,1
+1988,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.6,,,,1
+1988,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.3,,,,1
+1988,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.4,,,,1
+1988,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.3,,,,1
+1988,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,4.3,,,,1
+1988,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.4,,,,1
+1988,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.4,,,,1
+1988,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.1,,,,1
+1988,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,4.0,,,t,1
+1988,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.4,,,,1
+1988,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.1,,,,1
+1988,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.6,,,,1
+1988,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.5,,,,1
+1988,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,5.2,,,,1
+1988,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,5.4,,,,1
+1988,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.0,,,,1
+1988,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,8.8,,,,1
+1988,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,7.7,,,,1
+1988,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,8.8,,,,1
+1988,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,8.6,,,,1
+1988,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.1,,,,1
+1988,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.2,,,,1
+1988,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,6.2,,,,1
+1988,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.4,,,,1
+1988,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.3,,,,1
+1988,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,0.8,,,,1
+1988,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,4.3,,,,1
+1989,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.8,,,,1
+1989,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.2,,,,1
+1989,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,2.1,,,,1
+1989,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.3,,,,1
+1989,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.3,,,,1
+1989,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,0.5,,,,1
+1989,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.6,,,,1
+1989,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.7,,,,1
+1989,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,4.9,,,t,1
+1989,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,0.7,,,,1
+1989,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.7,,,,1
+1989,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.3,,,,1
+1989,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.2,,,,1
+1989,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,4.6,,,,1
+1989,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,6.5,,,,1
+1989,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,0.9,,,,1
+1989,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,5.0,,,,1
+1989,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.1,,,,1
+1989,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,8.8,,,,1
+1989,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,9.4,,,,1
+1989,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.6,,,,1
+1989,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.3,,,,1
+1989,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,5.6,,,,1
+1989,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.4,,,,1
+1989,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.2,,,,1
+1989,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.0,,,,1
+1989,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,6.5,,,,1
+1990,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.3,,,,1
+1990,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.0,,,,1
+1990,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.8,,,,1
+1990,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.7,,,,1
+1990,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.6,,,,1
+1990,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.2,,,,1
+1990,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.3,,,,1
+1990,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.8,,,,1
+1990,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,5.9,,,t,1
+1990,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.6,,,,1
+1990,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.2,,,,1
+1990,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.5,,,,1
+1990,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.2,,,,1
+1990,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,6.1,,,,1
+1990,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,5.0,,,,1
+1990,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.9,,,,1
+1990,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.6,,,,1
+1990,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.2,,,,1
+1990,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,7.5,,,,1
+1990,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,10.5,,,,1
+1990,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.9,,,,1
+1990,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.9,,,,1
+1990,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,8.1,,,,1
+1990,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.9,,,,1
+1990,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.3,,,,1
+1990,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.2,,,,1
+1990,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,6.4,,,,1
+1991,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.4,,,,1
+1991,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,3.8,,,,1
+1991,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,2.3,,,,1
+1991,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.5,,,,1
+1991,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,5.0,,,,1
+1991,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.4,,,,1
+1991,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,4.4,,,,1
+1991,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.8,,,,1
+1991,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,7.8,,,t,1
+1991,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.4,,,,1
+1991,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.5,,,,1
+1991,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.7,,,,1
+1991,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.9,,,,1
+1991,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,5.7,,,,1
+1991,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,5.6,,,,1
+1991,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.7,,,,1
+1991,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,7.3,,,,1
+1991,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.9,,,,1
+1991,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,6.0,,,,1
+1991,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,10.7,,,,1
+1991,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,0.7,,,,1
+1991,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.7,,,,1
+1991,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,9.0,,,,1
+1991,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.2,,,,1
+1991,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.8,,,,1
+1991,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.0,,,,1
+1991,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,6.6,,,,1
+1992,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.8,,,,1
+1992,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.6,,,,1
+1992,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.0,,,,1
+1992,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.8,,,,1
+1992,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,5.9,,,,1
+1992,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.1,,,,1
+1992,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,4.4,,,,1
+1992,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.4,,,,1
+1992,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,8.4,,,t,1
+1992,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,6.1,,,,1
+1992,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.8,,,,1
+1992,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.3,,,,1
+1992,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.8,,,,1
+1992,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,6.7,,,,1
+1992,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.6,,,,1
+1992,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.4,,,,1
+1992,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,5.7,,,,1
+1992,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,7.5,,,,1
+1992,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,4.4,,,,1
+1992,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,10.0,,,,1
+1992,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.4,,,,1
+1992,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,2.0,,,,1
+1992,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,7.4,,,,1
+1992,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.6,,,,1
+1992,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.5,,,,1
+1992,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.0,,,,1
+1992,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,6.1,,,,1
+1993,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.8,,,,1
+1993,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.9,,,,1
+1993,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,6.4,,,,1
+1993,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,3.4,,,,1
+1993,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,6.5,,,,1
+1993,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.5,,,,1
+1993,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,4.4,,,,1
+1993,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.8,,,,1
+1993,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,8.2,,,t,1
+1993,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,4.6,,,,1
+1993,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.4,,,,1
+1993,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.8,,,,1
+1993,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,5.1,,,,1
+1993,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,6.2,,,,1
+1993,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.5,,,,1
+1993,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,4.9,,,,1
+1993,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,9.1,,,,1
+1993,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.9,,,,1
+1993,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.7,,,,1
+1993,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,8.4,,,,1
+1993,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.4,,,,1
+1993,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.9,,,,1
+1993,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,7.0,,,,1
+1993,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.1,,,,1
+1993,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.8,,,,1
+1993,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.3,,,,1
+1993,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.8,,,,1
+1994,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.6,,,,1
+1994,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.0,,,,1
+1994,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,8.9,,,,1
+1994,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,3.8,,,,1
+1994,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,7.3,,,,1
+1994,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.1,,,,1
+1994,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.8,,,,1
+1994,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.9,,,,1
+1994,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,7.5,,,t,1
+1994,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.3,,,,1
+1994,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.5,,,,1
+1994,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.6,,,,1
+1994,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,6.9,,,,1
+1994,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,7.1,,,,1
+1994,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.1,,,,1
+1994,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,5.4,,,,1
+1994,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,6.9,,,,1
+1994,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.9,,,,1
+1994,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.8,,,,1
+1994,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,8.5,,,,1
+1994,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,4.1,,,,1
+1994,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.2,,,,1
+1994,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,7.8,,,,1
+1994,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.8,,,,1
+1994,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.9,,,,1
+1994,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.5,,,,1
+1994,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.6,,,,1
+1995,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.3,,,,1
+1995,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,3.6,,,,1
+1995,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,10.2,,,,1
+1995,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,5.0,,,,1
+1995,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,7.8,,,,1
+1995,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.9,,,,1
+1995,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.2,,,,1
+1995,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.1,,,,1
+1995,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,6.8,,,t,1
+1995,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.5,,,,1
+1995,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,4.8,,,,1
+1995,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.8,,,,1
+1995,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,8.7,,,,1
+1995,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,6.2,,,,1
+1995,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.0,,,,1
+1995,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,4.8,,,,1
+1995,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,11.1,,,,1
+1995,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.9,,,,1
+1995,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.0,,,,1
+1995,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,6.8,,,,1
+1995,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,6.2,,,,1
+1995,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.8,,,,1
+1995,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,7.8,,,,1
+1995,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.1,,,,1
+1995,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,3.5,,,,1
+1995,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.6,,,,1
+1995,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.3,,,,1
+1996,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.3,,,,1
+1996,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,6.0,,,,1
+1996,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.0,,,,1
+1996,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,7.0,,,,1
+1996,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.5,,,,1
+1996,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,7.6,,,,1
+1996,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,5.9,,,,1
+1996,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,3.0,,,,1
+1996,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,8.6,,,,1
+1996,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.1,,,,1
+1996,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,4.0,,,,1
+1996,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,4.2,,,,1
+1996,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.8,,,,1
+1996,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,5.8,,,,1
+1996,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,6.3,,,t,1
+1996,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.7,,,,1
+1996,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,5.4,,,,1
+1996,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,4.9,,,,1
+1996,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,7.2,,,,1
+1996,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,5.0,,,,1
+1996,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,6.4,,,,1
+1996,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.8,,,,1
+1996,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,5.1,,,,1
+1996,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,16.0,,,,1
+1996,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.7,,,,1
+1996,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.7,,,,1
+1996,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,7.1,,,,1
+1996,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,5.0,,,,1
+1996,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.2,,,,1
+1996,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,8.5,,,,1
+1996,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.1,,,,1
+1996,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,4.3,,,,1
+1996,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.7,,,,1
+1996,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.9,,,,1
+1997,Census metropolitan areas,,Rate,257,units,0,v733334,1,4.1,,,,1
+1997,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,5.2,,,,1
+1997,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.0,,,,1
+1997,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,4.0,,,,1
+1997,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.5,,,,1
+1997,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.6,,,,1
+1997,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,6.9,,,,1
+1997,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,2.0,,,,1
+1997,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,8.2,,,,1
+1997,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.1,,,,1
+1997,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,3.0,,,,1
+1997,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,5.1,,,,1
+1997,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.9,,,,1
+1997,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.9,,,,1
+1997,"Montréal excluding Saint-Jérôme, Quebec",,Rate,257,units,0,v733361,29,6.6,,,t,1
+1997,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.3,,,,1
+1997,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,5.0,,,,1
+1997,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,4.0,,,,1
+1997,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,8.9,,,,1
+1997,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,5.0,,,,1
+1997,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,6.5,,,,1
+1997,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.5,,,,1
+1997,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,4.8,,,,1
+1997,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,17.4,,,,1
+1997,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,4.6,,,,1
+1997,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.9,,,,1
+1997,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,8.1,,,,1
+1997,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,7.3,,,,1
+1997,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.8,,,,1
+1997,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,8.8,,,,1
+1997,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.5,,,,1
+1997,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,3.5,,,,1
+1997,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,4.5,,,,1
+1997,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.8,,,,1
+1998,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.4,,,,1
+1998,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,7.4,,,,1
+1998,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.0,,,,1
+1998,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,5.0,,,,1
+1998,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.5,,,,1
+1998,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.9,,,,1
+1998,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,8.3,,,,1
+1998,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,2.0,,,,1
+1998,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,5.5,,,,1
+1998,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.1,,,,1
+1998,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,4.0,,,,1
+1998,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,5.4,,,,1
+1998,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.4,,,,1
+1998,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.4,,,,1
+1998,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,5.2,,,,1
+1998,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.0,,,,1
+1998,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.8,,,,1
+1998,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.0,,,,1
+1998,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,5.9,,,,1
+1998,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,4.0,,,,1
+1998,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,5.1,,,,1
+1998,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.7,,,,1
+1998,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,4.5,,,,1
+1998,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,16.3,,,,1
+1998,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.3,,,,1
+1998,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.8,,,,1
+1998,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,8.2,,,,1
+1998,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,7.9,,,,1
+1998,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.8,,,,1
+1998,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,8.3,,,,1
+1998,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.7,,,,1
+1998,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,3.8,,,,1
+1998,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,4.0,,,,1
+1998,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,3.9,,,,1
+1999,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.6,,,,1
+1999,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,6.7,,,,1
+1999,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.0,,,,1
+1999,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.0,,,,1
+1999,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.8,,,,1
+1999,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,2.2,,,,1
+1999,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,9.8,,,,1
+1999,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.0,,,,1
+1999,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.6,,,,1
+1999,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.7,,,,1
+1999,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,2.0,,,,1
+1999,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,3.3,,,,1
+1999,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.9,,,,1
+1999,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.2,,,,1
+1999,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.3,,,,1
+1999,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.7,,,,1
+1999,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.2,,,,1
+1999,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.6,,,,1
+1999,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.7,,,,1
+1999,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,4.0,,,,1
+1999,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,3.4,,,,1
+1999,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.4,,,,1
+1999,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.0,,,,1
+1999,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,9.3,,,,1
+1999,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.4,,,,1
+1999,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.9,,,,1
+1999,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,8.1,,,,1
+1999,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,6.6,,,,1
+1999,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.8,,,,1
+1999,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,8.0,,,,1
+1999,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.7,,,,1
+1999,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,3.6,,,,1
+1999,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.3,,,,1
+1999,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.8,,,,1
+2000,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.5,,,,1
+2000,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,3.7,,,,1
+2000,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,0.0,,,,1
+2000,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.0,,,,1
+2000,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.2,,,,1
+2000,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.4,,,,1
+2000,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,7.4,,,,1
+2000,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.0,,,,1
+2000,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.5,,,,1
+2000,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.5,,,,1
+2000,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.0,,,,1
+2000,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.7,,,,1
+2000,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.7,,,,1
+2000,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.1,,,,1
+2000,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,1.5,,,,1
+2000,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.6,,,,1
+2000,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,0.4,,,,1
+2000,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.2,,,,1
+2000,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.1,,,,1
+2000,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,3.0,,,,1
+2000,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.5,,,,1
+2000,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.4,,,,1
+2000,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.3,,,,1
+2000,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,3.8,,,,1
+2000,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,4.8,,,,1
+2000,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.7,,,,1
+2000,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,4.9,,,,1
+2000,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,5.1,,,,1
+2000,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.6,,,,1
+2000,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,6.4,,,,1
+2000,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.3,,,,1
+2000,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.8,,,,1
+2000,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.6,,,,1
+2000,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.0,,,,1
+2001,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.1,,,,1
+2001,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.5,,,,1
+2001,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.0,,,,1
+2001,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,1.0,,,,1
+2001,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.1,,,,1
+2001,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,0.9,,,,1
+2001,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,5.4,,,,1
+2001,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.0,,,,1
+2001,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.9,,,,1
+2001,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.2,,,,1
+2001,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.0,,,,1
+2001,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.1,,,,1
+2001,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,0.8,,,,1
+2001,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.4,,,,1
+2001,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,0.7,,,,1
+2001,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.3,,,,1
+2001,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,0.7,,,,1
+2001,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,0.8,,,,1
+2001,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,0.4,,,,1
+2001,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,4.0,,,,1
+2001,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.7,,,,1
+2001,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.1,,,,1
+2001,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.5,,,,1
+2001,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.2,,,,1
+2001,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,4.5,,,,1
+2001,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.9,,,,1
+2001,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,2.6,,,,1
+2001,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,5.2,,,,1
+2001,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,0.9,,,,1
+2001,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.4,,,,1
+2001,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.0,,,,1
+2001,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.5,,,,1
+2001,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.5,,,,1
+2001,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.4,,,,1
+2002,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.7,,,,1
+2002,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,1.9,,,,1
+2002,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.0,,,,1
+2002,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,1.0,,,,1
+2002,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.8,,,,1
+2002,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.7,,,,1
+2002,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,4.0,,,,1
+2002,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,3.0,,,,1
+2002,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.7,,,,1
+2002,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.5,,,,1
+2002,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,2.0,,,,1
+2002,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.0,,,,1
+2002,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.4,,,,1
+2002,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.8,,,,1
+2002,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,0.7,,,,1
+2002,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.3,,,,1
+2002,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.6,,,,1
+2002,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.8,,,,1
+2002,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,0.6,,,,1
+2002,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.0,,,,1
+2002,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.4,,,,1
+2002,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.9,,,,1
+2002,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.8,,,,1
+2002,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.5,,,,1
+2002,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.6,,,,1
+2002,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,3.7,,,,1
+2002,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.8,,,,1
+2002,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,4.6,,,,1
+2002,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,2.5,,,,1
+2002,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.5,,,,1
+2002,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.4,,,,1
+2002,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.5,,,,1
+2002,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.4,,,,1
+2002,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.1,,,,1
+2003,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.3,,,,1
+2003,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.4,,,,1
+2003,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.0,,,,1
+2003,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,3.0,,,,1
+2003,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,4.3,,,,1
+2003,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,3.4,,,,1
+2003,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,3.0,,,,1
+2003,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,4.0,,,,1
+2003,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.3,,,,1
+2003,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.7,,,,1
+2003,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.0,,,,1
+2003,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.8,,,,1
+2003,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.2,,,,1
+2003,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.8,,,,1
+2003,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,1.1,,,,1
+2003,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.9,,,,1
+2003,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.4,,,,1
+2003,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.8,,,,1
+2003,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.0,,,,1
+2003,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,1.0,,,,1
+2003,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.4,,,,1
+2003,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.0,,,,1
+2003,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.0,,,,1
+2003,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.7,,,,1
+2003,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.2,,,,1
+2003,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,4.5,,,,1
+2003,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,0.7,,,,1
+2003,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.8,,,,1
+2003,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.8,,,,1
+2003,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.4,,,,1
+2003,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.0,,,,1
+2003,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.1,,,,1
+2003,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.8,,,,1
+2003,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.3,,,,1
+2004,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.8,,,,1
+2004,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.8,,,,1
+2004,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.0,,,,1
+2004,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.0,,,,1
+2004,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,4.1,,,,1
+2004,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,5.3,,,,1
+2004,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.9,,,,1
+2004,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,3.0,,,,1
+2004,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.9,,,,1
+2004,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.4,,,,1
+2004,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.0,,,,1
+2004,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.3,,,,1
+2004,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.6,,,,1
+2004,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.7,,,,1
+2004,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,1.6,,,,1
+2004,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.4,,,,1
+2004,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.5,,,,1
+2004,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.9,,,,1
+2004,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.0,,,,1
+2004,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,1.0,,,,1
+2004,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.1,,,,1
+2004,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.7,,,,1
+2004,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.2,,,,1
+2004,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.3,,,,1
+2004,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,6.0,,,,1
+2004,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,6.3,,,,1
+2004,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.0,,,,1
+2004,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,5.1,,,,1
+2004,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,4.4,,,,1
+2004,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.1,,,,1
+2004,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.3,,,,1
+2004,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.6,,,,1
+2004,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,8.1,,,,1
+2004,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.1,,,,1
+2005,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.8,,,,1
+2005,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,3.8,,,,1
+2005,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.0,,,,1
+2005,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.0,,,,1
+2005,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.4,,,,1
+2005,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.5,,,,1
+2005,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.4,,,,1
+2005,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,4.0,,,,1
+2005,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.3,,,,1
+2005,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,4.2,,,,1
+2005,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.0,,,,1
+2005,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.7,,,,1
+2005,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.3,,,,1
+2005,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.3,,,,1
+2005,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.2,,,,1
+2005,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.3,,,,1
+2005,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.3,,,,1
+2005,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.3,,,,1
+2005,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.2,,,,1
+2005,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,3.0,,,,1
+2005,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.5,,,,1
+2005,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.1,,,,1
+2005,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.2,,,,1
+2005,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,4.3,,,,1
+2005,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,4.8,,,,1
+2005,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,4.6,,,,1
+2005,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.3,,,,1
+2005,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,3.8,,,,1
+2005,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.7,,,,1
+2005,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.7,,,,1
+2005,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.3,,,,1
+2005,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.5,,,,1
+2005,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,8.8,,,,1
+2005,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.6,,,,1
+2006,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.6,,,,1
+2006,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.0,,,,1
+2006,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.0,,,,1
+2006,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.0,,,,1
+2006,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,0.5,,,,1
+2006,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.2,,,,1
+2006,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.1,,,,1
+2006,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,3.0,,,,1
+2006,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.0,,,,1
+2006,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,4.2,,,,1
+2006,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.0,,,,1
+2006,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.1,,,,1
+2006,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.3,,,,1
+2006,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.6,,,,1
+2006,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.0,,,,1
+2006,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,4.2,,,,1
+2006,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.6,,,,1
+2006,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.3,,,,1
+2006,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.5,,,,1
+2006,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.0,,,,1
+2006,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.5,,,,1
+2006,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.3,,,,1
+2006,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.6,,,,1
+2006,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,4.6,,,,1
+2006,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,4.8,,,,1
+2006,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,3.2,,,,1
+2006,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.3,,,,1
+2006,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,4.0,,,,1
+2006,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.2,,,,1
+2006,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.1,,,,1
+2006,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.7,,,,1
+2006,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.5,,,,1
+2006,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,9.2,,,,1
+2006,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.3,,,,1
+2007,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+2007,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.1,,,,1
+2007,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.0,,,,1
+2007,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.9,,,,1
+2007,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.5,,,,1
+2007,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.5,,,,1
+2007,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.5,,,,1
+2007,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.9,,,,1
+2007,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.0,,,,1
+2007,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.5,,,,1
+2007,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.0,,,,1
+2007,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,3.3,,,,1
+2007,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.7,,,,1
+2007,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.3,,,,1
+2007,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.3,,,,1
+2007,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.6,,,,1
+2007,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.4,,,,1
+2007,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.2,,,,1
+2007,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.1,,,,1
+2007,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.5,,,,1
+2007,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.4,,,,1
+2007,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.7,,,,1
+2007,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.3,,,,1
+2007,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.3,,,,1
+2007,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,3.3,,,,1
+2007,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,0.6,,,,1
+2007,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,2.8,,,,1
+2007,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.9,,,,1
+2007,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.2,,,,1
+2007,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.6,,,,1
+2007,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.7,,,,1
+2007,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.5,,,,1
+2007,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,11.9,,,,1
+2007,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.4,,,,1
+2008,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.2,,,,1
+2008,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.5,,,,1
+2008,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.5,,,,1
+2008,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.3,,,,1
+2008,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.1,,,,1
+2008,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,2.4,,,,1
+2008,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,0.5,,,,1
+2008,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,2.2,,,,1
+2008,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.4,,,,1
+2008,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.1,,,,1
+2008,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.2,,,,1
+2008,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.2,,,,1
+2008,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.8,,,,1
+2008,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.8,,,,1
+2008,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.7,,,,1
+2008,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,4.0,,,,1
+2008,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.5,,,,1
+2008,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.3,,,,1
+2008,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.2,,,,1
+2008,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.2,,,,1
+2008,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.6,,,,1
+2008,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.4,,,,1
+2008,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.9,,,,1
+2008,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.5,,,,1
+2008,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.0,,,,1
+2008,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.8,,,,1
+2008,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,3.2,,,,1
+2008,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.9,,,,1
+2008,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,2.0,,,,1
+2008,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.0,,,,1
+2008,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.5,,,,1
+2008,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.5,,,,1
+2008,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,13.9,,,,1
+2008,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,0.9,,,,1
+2009,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.9,,,,1
+2009,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,6.1,,,,1
+2009,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.6,,,,1
+2009,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,3.5,,,,1
+2009,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.4,,,,1
+2009,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.5,,,,1
+2009,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.6,,,,1
+2009,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,4.1,,,,1
+2009,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.8,,,,1
+2009,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,4.0,,,,1
+2009,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,2.9,,,,1
+2009,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.2,,,,1
+2009,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.3,,,,1
+2009,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,5.1,,,,1
+2009,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.9,,,,1
+2009,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,4.1,,,,1
+2009,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.5,,,,1
+2009,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.5,,,,1
+2009,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.9,,,,1
+2009,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,6.3,,,,1
+2009,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.5,,,,1
+2009,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.6,,,,1
+2009,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.9,,,,1
+2009,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,0.5,,,,1
+2009,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.9,,,,1
+2009,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.9,,,,1
+2009,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,4.7,,,,1
+2009,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.0,,,,1
+2009,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.0,,,,1
+2009,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.9,,,,1
+2009,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.1,,,,1
+2009,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.4,,,,1
+2009,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,12.2,,,,1
+2009,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.1,,,,1
+2010,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+2010,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,6.5,,,,1
+2010,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.2,,,,1
+2010,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,3.7,,,,1
+2010,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,3.4,,,,1
+2010,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.2,,,,1
+2010,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.5,,,,1
+2010,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,3.4,,,,1
+2010,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.6,,,,1
+2010,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.6,,,,1
+2010,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,3.4,,,,1
+2010,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.1,,,,1
+2010,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.6,,,,1
+2010,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,4.9,,,,1
+2010,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.0,,,,1
+2010,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.8,,,,1
+2010,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.7,,,,1
+2010,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.5,,,,1
+2010,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.2,,,,1
+2010,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,4.0,,,,1
+2010,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.1,,,,1
+2010,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.0,,,,1
+2010,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,4.3,,,,1
+2010,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.1,,,,1
+2010,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.3,,,,1
+2010,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.6,,,,1
+2010,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,5.4,,,,1
+2010,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.9,,,,1
+2010,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,2.1,,,,1
+2010,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.0,,,,1
+2010,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.9,,,,1
+2010,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.5,,,,1
+2010,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,9.7,,,,1
+2010,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,0.8,,,,1
+2011,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.2,,,,1
+2011,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,6.6,,,,1
+2011,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.5,,,,1
+2011,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,1.8,,,,1
+2011,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.8,,,,1
+2011,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,3.3,,,,1
+2011,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.7,,,,1
+2011,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.0,,,,1
+2011,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.4,,,,1
+2011,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.4,,,,1
+2011,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,2.9,,,,1
+2011,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.0,,,,1
+2011,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.7,,,,1
+2011,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.5,,,,1
+2011,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.8,,,,1
+2011,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.7,,,,1
+2011,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.5,,,,1
+2011,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.4,,,,1
+2011,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.0,,,,1
+2011,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,3.2,,,,1
+2011,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.6,,,,1
+2011,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.6,,,,1
+2011,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.9,,,,1
+2011,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.0,,,,1
+2011,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.7,,,,1
+2011,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.6,,,,1
+2011,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,5.4,,,,1
+2011,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.6,,,,1
+2011,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.4,,,,1
+2011,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.2,,,,1
+2011,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.4,,,,1
+2011,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.1,,,,1
+2011,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,6.9,,,,1
+2011,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.1,,,,1
+2012,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.6,,,,1
+2012,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,4.3,,,,1
+2012,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.6,,,,1
+2012,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.9,,,,1
+2012,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.3,,,,1
+2012,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.6,,,,1
+2012,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.4,,,,1
+2012,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.3,,,,1
+2012,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.0,,,,1
+2012,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.5,,,,1
+2012,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,3.9,,,,1
+2012,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.3,,,,1
+2012,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.6,,,,1
+2012,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.8,,,,1
+2012,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.1,,,,1
+2012,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.9,,,,1
+2012,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.6,,,,1
+2012,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.5,,,,1
+2012,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.2,,,,1
+2012,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.7,,,,1
+2012,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.1,,,,1
+2012,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,0.9,,,,1
+2012,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.9,,,,1
+2012,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.7,,,,1
+2012,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.4,,,,1
+2012,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.6,,,,1
+2012,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,5.9,,,,1
+2012,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.0,,,,1
+2012,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.7,,,,1
+2012,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,5.5,,,,1
+2012,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.8,,,,1
+2012,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.8,,,,1
+2012,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,6.6,,,,1
+2012,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.7,,,,1
+2013,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+2013,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,3.2,,,,1
+2013,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.5,,,,1
+2013,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.8,,,,1
+2013,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.0,,,,1
+2013,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.4,,,,1
+2013,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.8,,,,1
+2013,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.7,,,,1
+2013,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.2,,,,1
+2013,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.4,,,,1
+2013,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.7,,,,1
+2013,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.2,,,,1
+2013,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.8,,,,1
+2013,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.2,,,,1
+2013,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.2,,,,1
+2013,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.0,,,,1
+2013,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.3,,,,1
+2013,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.9,,,,1
+2013,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.4,,,,1
+2013,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,4.5,,,,1
+2013,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.4,,,,1
+2013,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.8,,,,1
+2013,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.6,,,,1
+2013,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,3.1,,,,1
+2013,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.9,,,,1
+2013,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,2.8,,,,1
+2013,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,6.0,,,,1
+2013,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.8,,,,1
+2013,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.6,,,,1
+2013,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,5.3,,,,1
+2013,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.7,,,,1
+2013,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.8,,,,1
+2013,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,5.3,,,,1
+2013,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.5,,,,1
+2014,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+2014,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,3.1,,,,1
+2014,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.5,,,,1
+2014,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.2,,,,1
+2014,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.4,,,,1
+2014,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,1.7,,,,1
+2014,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,3.8,,,,1
+2014,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.1,,,,1
+2014,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.7,,,,1
+2014,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.1,,,,1
+2014,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.9,,,,1
+2014,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.9,,,,1
+2014,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.2,,,,1
+2014,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.7,,,,1
+2014,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.8,,,,1
+2014,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.8,,,,1
+2014,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.3,,,,1
+2014,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.6,,,,1
+2014,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,6.1,,,,1
+2014,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.6,,,,1
+2014,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,3.2,,,,1
+2014,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.9,,,,1
+2014,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.3,,,,1
+2014,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,3.7,,,,1
+2014,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.8,,,,1
+2014,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,3.5,,,,1
+2014,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,6.3,,,,1
+2014,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.0,,,,1
+2014,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.6,,,,1
+2014,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,5.6,,,,1
+2014,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.0,,,,1
+2014,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.5,,,,1
+2014,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.6,,,,1
+2014,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.6,,,,1
+2015,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.3,,,,1
+2015,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,0.8,,,,1
+2015,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.3,,,,1
+2015,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.4,,,,1
+2015,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.3,,,,1
+2015,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.2,,,,1
+2015,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,3.2,,,,1
+2015,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.2,,,,1
+2015,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,3.3,,,,1
+2015,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.4,,,,1
+2015,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.7,,,,1
+2015,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.9,,,,1
+2015,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.5,,,,1
+2015,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.7,,,,1
+2015,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,4.5,,,,1
+2015,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.7,,,,1
+2015,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.9,,,,1
+2015,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.4,,,,1
+2015,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,5.5,,,,1
+2015,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,3.5,,,,1
+2015,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,4.3,,,,1
+2015,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,5.3,,,,1
+2015,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.7,,,,1
+2015,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,4.2,,,,1
+2015,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,9.2,,,,1
+2015,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,6.6,,,,1
+2015,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,6.1,,,,1
+2015,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,4.4,,,,1
+2015,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.5,,,,1
+2015,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,6.3,,,,1
+2015,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.8,,,,1
+2015,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.6,,,,1
+2015,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.3,,,,1
+2015,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.8,,,,1
+2016,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.4,,,,1
+2016,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,0.4,,,,1
+2016,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.0,,,,1
+2016,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.0,,,,1
+2016,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,6.9,,,,1
+2016,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,7.1,,,,1
+2016,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,4.7,,,,1
+2016,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,0.9,,,,1
+2016,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.6,,,,1
+2016,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.8,,,,1
+2016,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.6,,,,1
+2016,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.6,,,,1
+2016,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.1,,,,1
+2016,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.0,,,,1
+2016,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,4.6,,,,1
+2016,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.7,,,,1
+2016,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.4,,,,1
+2016,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.8,,,,1
+2016,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,5.9,,,,1
+2016,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,0.9,,,,1
+2016,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,5.4,,,,1
+2016,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,5.4,,,,1
+2016,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.0,,,,1
+2016,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,8.5,,,,1
+2016,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,7.9,,,,1
+2016,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,10.4,,,,1
+2016,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,6.9,,,,1
+2016,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,5.0,,,,1
+2016,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.3,,,,1
+2016,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,6.4,,,,1
+2016,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.7,,,,1
+2016,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.5,,,,1
+2016,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.2,,,,1
+2016,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.8,,,,1
+2017,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.7,,,,1
+2017,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,0.2,,,,1
+2017,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.8,,,,1
+2017,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,1.3,,,,1
+2017,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,6.2,,,,1
+2017,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,7.0,,,,1
+2017,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,4.2,,,,1
+2017,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.2,,,,1
+2017,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.2,,,,1
+2017,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.3,,,,1
+2017,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.2,,,,1
+2017,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,0.8,,,,1
+2017,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.9,,,,1
+2017,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.6,,,,1
+2017,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.9,,,,1
+2017,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.2,,,,1
+2017,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.2,,,,1
+2017,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.8,,,,1
+2017,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,3.8,,,,1
+2017,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,1.1,,,,1
+2017,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,4.7,,,,1
+2017,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,7.0,,,,1
+2017,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.3,,,,1
+2017,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,6.7,,,,1
+2017,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,8.0,,,,1
+2017,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,9.6,,,,1
+2017,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,5.7,,,,1
+2017,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,3.7,,,,1
+2017,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.0,,,,1
+2017,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.8,,,,1
+2017,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.9,,,,1
+2017,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.7,,,,1
+2017,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.2,,,,1
+2017,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.9,,,,1
+2018,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.2,,,,1
+2018,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,0.8,,,,1
+2018,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.8,,,,1
+2018,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,1.2,,,,1
+2018,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,3.9,,,,1
+2018,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,5.3,,,,1
+2018,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.1,,,,1
+2018,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.4,,,,1
+2018,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.5,,,,1
+2018,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.1,,,,1
+2018,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.9,,,,1
+2018,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,0.5,,,,1
+2018,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.9,,,,1
+2018,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.0,,,,1
+2018,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.0,,,,1
+2018,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.6,,,,1
+2018,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.5,,,,1
+2018,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.6,,,,1
+2018,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.3,,,,1
+2018,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,1.6,,,,1
+2018,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,3.5,,,,1
+2018,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,7.7,,,,1
+2018,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.2,,,,1
+2018,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,6.2,,,,1
+2018,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,5.0,,,,1
+2018,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,8.3,,,,1
+2018,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,3.0,,,,1
+2018,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,5.0,,,,1
+2018,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.1,,,,1
+2018,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,4.2,,,,1
+2018,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.0,,,,1
+2018,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.1,,,,1
+2018,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.5,,,,1
+2018,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.9,,,,1
+2019,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.1,,,,1
+2019,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,1.1,,,,1
+2019,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,3.3,,,,1
+2019,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.1,,,,1
+2019,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,3.7,,,,1
+2019,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.9,,,,1
+2019,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,2.2,,,,1
+2019,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.9,,,,1
+2019,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.0,,,,1
+2019,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.9,,,,1
+2019,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,2.7,,,,1
+2019,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.6,,,,1
+2019,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.1,,,,1
+2019,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.7,,,,1
+2019,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,1.6,,,,1
+2019,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.3,,,,1
+2019,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.8,,,,1
+2019,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,1.8,,,,1
+2019,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.6,,,,1
+2019,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.0,,,,1
+2019,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.5,,,,1
+2019,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,7.8,,,,1
+2019,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.1,,,,1
+2019,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,7.1,,,,1
+2019,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,3.3,,,,1
+2019,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,5.7,,,,1
+2019,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,2.0,,,,1
+2019,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,3.3,,,,1
+2019,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.5,,,,1
+2019,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.0,,,,1
+2019,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.1,,,,1
+2019,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.0,,,,1
+2019,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.6,,,,1
+2019,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,3.0,,,,1
+2020,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.4,,,,1
+2020,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,0.6,,,,1
+2020,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.9,,,,1
+2020,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.2,,,,1
+2020,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,6.5,,,,1
+2020,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,7.2,,,,1
+2020,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.9,,,,1
+2020,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,2.0,,,,1
+2020,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.7,,,,1
+2020,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.6,,,,1
+2020,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,2.1,,,,1
+2020,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.9,,,,1
+2020,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.1,,,,1
+2020,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.2,,,,1
+2020,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.3,,,,1
+2020,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.2,,,,1
+2020,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.4,,,,1
+2020,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.8,,,,1
+2020,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.0,,,,1
+2020,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.2,,,,1
+2020,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.7,,,,1
+2020,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,7.4,,,,1
+2020,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.3,,,,1
+2020,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,7.6,,,,1
+2020,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.9,,,,1
+2020,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,5.9,,,,1
+2020,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.6,,,,1
+2020,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,3.6,,,,1
+2020,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.4,,,,1
+2020,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.4,,,,1
+2020,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,2.6,,,,1
+2020,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.2,,,,1
+2020,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.2,,,,1
+2020,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,3.8,,,,1
+2021,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.4,,,,1
+2021,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,1.6,,,,1
+2021,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,1.7,,,,1
+2021,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.2,,,,1
+2021,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.1,,,,1
+2021,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,7.3,,,,1
+2021,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.3,,,,1
+2021,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,2.0,,,,1
+2021,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,1.0,,,,1
+2021,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.6,,,,1
+2021,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,0.6,,,,1
+2021,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.1,,,,1
+2021,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.0,,,,1
+2021,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.7,,,,1
+2021,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.5,,,,1
+2021,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.0,,,,1
+2021,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.8,,,,1
+2021,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.3,,,,1
+2021,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.3,,,,1
+2021,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,1.1,,,,1
+2021,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.7,,,,1
+2021,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,7.0,,,,1
+2021,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,1.8,,,,1
+2021,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.8,,,,1
+2021,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.7,,,,1
+2021,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,4.7,,,,1
+2021,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,0.9,,,,1
+2021,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,3.6,,,,1
+2021,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,4.6,,,,1
+2021,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.0,,,,1
+2021,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.2,,,,1
+2021,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,0.9,,,,1
+2021,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.2,,,,1
+2021,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,5.0,,,,1
+2022,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.9,,,,1
+2022,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.1,,,,1
+2022,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.0,,,,1
+2022,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,1.6,,,,1
+2022,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,2.7,,,,1
+2022,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,4.3,,,,1
+2022,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.6,,,,1
+2022,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.5,,,,1
+2022,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.9,,,,1
+2022,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,1.8,,,,1
+2022,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.2,,,,1
+2022,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,1.1,,,,1
+2022,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,1.2,,,,1
+2022,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.6,,,,1
+2022,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.2,,,,1
+2022,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,2.6,,,,1
+2022,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,1.9,,,,1
+2022,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.2,,,,1
+2022,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,0.9,,,,1
+2022,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,0.7,,,,1
+2022,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.5,,,,1
+2022,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,3.0,,,,1
+2022,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.2,,,,1
+2022,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,2.4,,,,1
+2022,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,0.6,,,,1
+2022,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,3.4,,,,1
+2022,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,0.9,,,,1
+2022,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,1.4,,,,1
+2022,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.6,,,,1
+2022,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,0.9,,,,1
+2022,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.9,,,,1
+2022,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.5,,,,1
+2022,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,1.9,,,,1
+2022,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.7,,,,1
+2023,Census metropolitan areas,,Rate,257,units,0,v733334,1,1.6,,,,1
+2023,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,0.9,,,,1
+2023,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.7,,,,1
+2023,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.4,,,,1
+2023,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,1.4,,,,1
+2023,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,2.4,,,,1
+2023,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.3,,,,1
+2023,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,1.3,,,,1
+2023,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,0.9,,,,1
+2023,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.1,,,,1
+2023,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,1.3,,,,1
+2023,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,0.9,,,,1
+2023,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,2.0,,,,1
+2023,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,1.6,,,,1
+2023,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,1.9,,,,1
+2023,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,1.6,,,,1
+2023,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.0,,,,1
+2023,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.2,,,,1
+2023,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,1.4,,,,1
+2023,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,0.9,,,,1
+2023,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,0.9,,,,1
+2023,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,1.3,,,,1
+2023,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,2.7,,,,1
+2023,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.0,,,,1
+2023,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,1.0,,,,1
+2023,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.9,,,,1
+2023,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.3,,,,1
+2023,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,2.7,,,,1
+2023,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,1.4,,,,1
+2023,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,0.4,,,,1
+2023,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,0.9,,,,1
+2023,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,1.6,,,,1
+2023,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,2.0,,,,1
+2023,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.8,,,,1
+2024,Census metropolitan areas,,Rate,257,units,0,v733334,1,2.4,,,,1
+2024,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,1.1,,,,1
+2024,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,2.7,,,,1
+2024,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,2.7,,,,1
+2024,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,4.8,,,,1
+2024,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,3.1,,,,1
+2024,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.5,,,,1
+2024,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,2.0,,,,1
+2024,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.0,,,,1
+2024,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,2.4,,,,1
+2024,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,3.8,,,,1
+2024,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,3.0,,,,1
+2024,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,3.7,,,,1
+2024,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,2.7,,,,1
+2024,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,2.5,,,,1
+2024,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.7,,,,1
+2024,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,2.5,,,,1
+2024,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,2.5,,,,1
+2024,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,2.4,,,,1
+2024,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,3.4,,,,1
+2024,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,1.0,,,,1
+2024,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.5,,,,1
+2024,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.6,,,,1
+2024,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.9,,,,1
+2024,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.3,,,,1
+2024,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,1.9,,,,1
+2024,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,1.6,,,,1
+2024,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,3.3,,,,1
+2024,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,2.5,,,,1
+2024,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,1.0,,,,1
+2024,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,1.6,,,,1
+2024,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,2.7,,,,1
+2024,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.1,,,,1
+2024,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,1.7,,,,1
+2025,Census metropolitan areas,,Rate,257,units,0,v733334,1,3.3,,,,1
+2025,"Abbotsford-Mission, British Columbia",2011S0503932,Rate,257,units,0,v4419483,30,2.8,,,,1
+2025,"Barrie, Ontario",2011S0503568,Rate,257,units,0,v42135248,32,4.2,,,,1
+2025,"Brantford, Ontario",2011S0503543,Rate,257,units,0,v42135249,33,3.5,,,,1
+2025,"Calgary, Alberta",2011S0503825,Rate,257,units,0,v733335,2,5.0,,,,1
+2025,"Edmonton, Alberta",2011S0503835,Rate,257,units,0,v733356,4,3.9,,,,1
+2025,"Greater Sudbury, Ontario",2011S0503580,Rate,257,units,0,v733346,21,1.3,,,,1
+2025,"Guelph, Ontario",2011S0503550,Rate,257,units,0,v42135250,34,3.2,,,,1
+2025,"Halifax, Nova Scotia",2011S0503205,Rate,257,units,0,v733357,5,2.5,,,,1
+2025,"Hamilton, Ontario",2011S0503537,Rate,257,units,0,v733358,6,3.6,,,,1
+2025,"Kelowna, British Columbia",2011S0503915,Rate,257,units,0,v42135251,35,6.3,,,,1
+2025,"Kingston, Ontario",2011S0503521,Rate,257,units,0,v4419482,31,2.3,,,,1
+2025,"Kitchener-Cambridge-Waterloo, Ontario",2011S0503541,Rate,257,units,0,v733359,7,4.2,,,,1
+2025,"London, Ontario",2011S0503555,Rate,257,units,0,v733360,8,3.9,,,,1
+2025,"Montréal, Quebec",2011S0503462,Rate,257,units,0,v733355,9,3.3,,,,1
+2025,"Oshawa, Ontario",2011S0503532,Rate,257,units,0,v733362,10,3.7,,,,1
+2025,"Ottawa-Gatineau, Ontario/Quebec",2011S0503505,Rate,257,units,0,v733336,11,3.4,,,,1
+2025,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2011S050535505,Rate,257,units,0,v733337,12,3.1,,,,1
+2025,"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2011S050524505,Rate,257,units,0,v733338,13,4.6,,,,1
+2025,"Peterborough, Ontario",2011S0503529,Rate,257,units,0,v42135253,37,2.7,,,,1
+2025,"Québec, Quebec",2011S0503421,Rate,257,units,0,v733339,14,2.6,,,,1
+2025,"Regina, Saskatchewan",2011S0503705,Rate,257,units,0,v733340,15,2.7,,,,1
+2025,"St. Catharines-Niagara, Ontario",2011S0503539,Rate,257,units,0,v733341,16,3.5,,,,1
+2025,"St. John's, Newfoundland and Labrador",2011S0503001,Rate,257,units,0,v733343,18,1.6,,,,1
+2025,"Saguenay, Quebec",2011S0503408,Rate,257,units,0,v733348,3,2.6,,,,1
+2025,"Saskatoon, Saskatchewan",2011S0503725,Rate,257,units,0,v733344,19,3.2,,,,1
+2025,"Sherbrooke, Quebec",2011S0503433,Rate,257,units,0,v733345,20,2.5,,,,1
+2025,"Thunder Bay, Ontario",2011S0503595,Rate,257,units,0,v733347,22,4.3,,,,1
+2025,"Toronto, Ontario",2011S0503535,Rate,257,units,0,v733349,23,3.0,,,,1
+2025,"Trois-Rivières, Quebec",2011S0503442,Rate,257,units,0,v733350,24,2.7,,,,1
+2025,"Vancouver, British Columbia",2011S0503933,Rate,257,units,0,v733351,25,3.7,,,,1
+2025,"Victoria, British Columbia",2011S0503935,Rate,257,units,0,v733352,26,3.1,,,,1
+2025,"Windsor, Ontario",2011S0503559,Rate,257,units,0,v733353,27,3.6,,,,1
+2025,"Winnipeg, Manitoba",2011S0503602,Rate,257,units,0,v733354,28,2.8,,,,1
