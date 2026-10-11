@@ -25,7 +25,23 @@ STATCAN_TABLES = {
     "18100004": "Consumer Price Index, incl. shelter (monthly)",
     # --- Context ---
     "17100009": "Population estimates (quarterly)",
+    "17100008": "Components of population growth: immigrants, non-permanent residents, interprovincial (annual)",
     "36100434": "GDP by industry incl. real estate (monthly)",
+}
+
+# Provinces kept for cross-province comparisons (New Brunswick excluded by choice)
+COMPARISON_PROVINCES = [
+    "Newfoundland and Labrador", "Prince Edward Island", "Nova Scotia", "Quebec", "Ontario",
+    "Manitoba", "Saskatchewan", "Alberta", "British Columbia",
+]
+
+# Tables to also save at province level for every province above (plus Canada).
+# Optional column filters keep the files small.
+PROVINCE_WIDE = {
+    "17100008": {},
+    "17100009": {},
+    "34100135": {"Type of unit": ["Total units"], "Seasonal adjustment": ["Unadjusted"]},
+    "18100004": {"Products and product groups": ["All-items", "Rent", "Shelter"]},
 }
 
 # Bank of Canada Valet API series (national; rates are not provincial)
