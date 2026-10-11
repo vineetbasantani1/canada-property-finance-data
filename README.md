@@ -1,7 +1,7 @@
 # Canada Property & Finance Data
 
 Open-data pipeline and analysis of Canadian housing, property and household-finance
-indicators, with a focus on **Nova Scotia** and **New Brunswick** alongside national figures.
+indicators, with a focus on **Nova Scotia** alongside national figures.
 
 Author: Vineet Basantani
 
@@ -21,7 +21,7 @@ The full list with table IDs is in [`sources.py`](sources.py).
 data/
   raw/statcan/<id>.csv.gz      full national tables
   raw/boc/boc_rates.csv        interest-rate and FX series
-  provincial/<id>_ns_nb.csv    Canada / NS / NB / Atlantic-city rows only
+  provincial/<id>_ns.csv       Canada / Nova Scotia / NS-city rows only
   catalog/open_data_catalog.csv
   manifest.json                official title, row count, latest period, source link per dataset
 ```

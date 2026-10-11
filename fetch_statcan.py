@@ -60,10 +60,10 @@ def provincial_slice(pid, df):
     if "GEO" not in df.columns:
         return 0
     mask = df["GEO"].isin(PROVINCES) | df["GEO"].str.contains(
-        r"Nova Scotia|New Brunswick|Halifax|Moncton|Saint John|Fredericton|New Glasgow", na=False)
+        r"Nova Scotia|Halifax|New Glasgow|Sydney|Truro|Kentville", na=False)
     sub = df[mask]
     PROV.mkdir(parents=True, exist_ok=True)
-    sub.to_csv(PROV / f"{pid}_ns_nb.csv", index=False)
+    sub.to_csv(PROV / f"{pid}_ns.csv", index=False)
     return len(sub)
 
 
@@ -87,12 +87,12 @@ def main(pids):
                 "title": title,
                 "expected": STATCAN_TABLES.get(pid, ""),
                 "rows": len(df),
-                "ns_nb_rows": n,
+                "ns_rows": n,
                 "latest_period": str(df["REF_DATE"].max()) if "REF_DATE" in df else None,
                 "source": f"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid={pid}01",
                 "fetched_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             }
-            print(f"OK  {pid}  {title}  ({len(df):,} rows, {n:,} NS/NB)")
+            print(f"OK  {pid}  {title}  ({len(df):,} rows, {n:,} NS)")
         except Exception as e:  # keep going; report at end
             failures.append(pid)
             print(f"ERR {pid}  {e}")

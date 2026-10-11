@@ -6,10 +6,10 @@ wrong or retired ID is visible immediately. Use `python fetch_statcan.py --searc
 to find more tables by keyword.
 
 Provincial coverage: StatCan tables include rows for every province, so Nova Scotia
-and New Brunswick slices are extracted from the same files (see PROVINCES).
+slices are extracted from the same files (see PROVINCES).
 """
 
-PROVINCES = ["Canada", "Nova Scotia", "New Brunswick"]
+PROVINCES = ["Canada", "Nova Scotia"]
 
 STATCAN_TABLES = {
     # --- Property ---
