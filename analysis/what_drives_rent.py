@@ -78,7 +78,7 @@ pred = X @ beta
 r2_both = 1 - ((d["rent_growth_pct"] - pred) ** 2).sum() / ((d["rent_growth_pct"] - d["rent_growth_pct"].mean()) ** 2).sum()
 
 
-def scatter(xcol, slope, intercept, r, xlabel, title, subtitle, name, xfmt):
+def scatter(xcol, slope, intercept, r, xlabel, title, subtitle, name, xfmt, extra=()):
     fig, ax = plt.subplots(figsize=(10.5, 6.4))
     others = d.drop(index=FOCUS, errors="ignore")
     ax.scatter(others[xcol], others["rent_growth_pct"], s=70, color=MUTED, edgecolor=SURFACE, linewidth=1.8, zorder=3)
@@ -86,7 +86,7 @@ def scatter(xcol, slope, intercept, r, xlabel, title, subtitle, name, xfmt):
     ax.plot(xs, slope * xs + intercept, color=INK2, lw=1.2, ls=(0, (5, 3)), zorder=2)
     # label the focus city and the extremes, not every point
     pick = set(d["rent_growth_pct"].nlargest(3).index) | set(d["rent_growth_pct"].nsmallest(2).index) \
-        | set(d[xcol].nlargest(2).index) | set(d[xcol].nsmallest(2).index)
+        | set(d[xcol].nlargest(2).index) | set(d[xcol].nsmallest(2).index) | set(extra)
     for city in pick - {FOCUS}:
         row = d.loc[city]
         ax.annotate(city, (row[xcol], row["rent_growth_pct"]), xytext=(7, 0), textcoords="offset points",
@@ -110,11 +110,12 @@ def scatter(xcol, slope, intercept, r, xlabel, title, subtitle, name, xfmt):
 
 def strength(r):
     a = abs(r)
-    return "strong" if a >= 0.6 else "moderate" if a >= 0.4 else "weak" if a >= 0.2 else "no clear"
+    return ("strong" if a >= 0.6 else "moderate" if a >= 0.4 else "weak" if a >= 0.2 else "no clear") + " link"
 
 
 pre_label = f"{pre[0]}–{pre[-1]}"
 v_title = ("Cities with fewer empty apartments saw bigger rent increases" if r_v <= -0.3
+           else "Tight rental markets before the boom did not predict faster rent growth" if abs(r_v) < 0.2
            else "Vacancy going in vs. rent growth")
 scatter("vacancy_going_in", s_v, i_v, r_v, f"Average apartment vacancy rate, {pre_label} (before the boom)",
         v_title, f"{n} cities; correlation {r_v:+.2f} ({strength(r_v)}). Dashed line = trend",
@@ -123,7 +124,35 @@ r_title = ("Cheaper cities caught up: lower starting rents, faster increases" if
            else "Starting rent vs. rent growth")
 scatter("rent_2021", s_r, i_r, r_r, f"Average 2-bedroom rent, {base}",
         r_title, f"{n} cities; correlation {r_r:+.2f} ({strength(r_r)}). Dashed line = trend",
-        "02_starting_rent_vs_growth.png", lambda v, _: f"${v:,.0f}")
+        "02_starting_rent_vs_growth.png", lambda v, _: f"${v:,.0f}",
+        extra=((d["rent_growth_pct"] - (s_r * d["rent_2021"] + i_r)).nlargest(4).index))
+
+# ---------- Chart 3: who beat the catch-up trend ----------
+d["expected_from_start_pct"] = s_r * d["rent_2021"] + i_r
+d["beyond_trend_pts"] = d["rent_growth_pct"] - d["expected_from_start_pct"]
+d.round(2).to_csv(OUT / "cities.csv")
+res = d["beyond_trend_pts"].sort_values()
+fig, ax = plt.subplots(figsize=(10, 0.32 * len(res) + 1.8))
+ax.barh(res.index, res, color=[S1 if c == FOCUS else MUTED for c in res.index], height=0.65)
+ax.axvline(0, color=INK2, lw=1)
+for city, val in res.items():
+    if city == FOCUS or abs(val) >= res.abs().nlargest(4).min():
+        ax.text(val + (0.4 if val >= 0 else -0.4), city, f"{val:+.0f}", va="center", ha="left" if val >= 0 else "right",
+                fontsize=9, fontweight="bold" if city == FOCUS else "normal", color=INK)
+ax.tick_params(axis="y", labelsize=9)
+for lbl in ax.get_yticklabels():
+    if lbl.get_text() == FOCUS:
+        lbl.set_fontweight("bold"); lbl.set_color(INK)
+ax.grid(axis="y", visible=False)
+ax.xaxis.set_major_formatter(lambda v, _: f"{v:+.0f}" if v else "0")
+ax.set_xlabel("Rent growth beyond what the starting rent predicts (percentage points)")
+ax.set_title("Who beat the catch-up trend?", pad=34)
+ax.text(0, 1.02, f"Actual {base}–{last} rent growth minus the growth expected from each city's {base} rent",
+        transform=ax.transAxes, color=INK2, fontsize=11, va="bottom")
+fig.text(0.01, 0.005, SOURCE, color=INK2, fontsize=8)
+fig.tight_layout(rect=(0, 0.02, 1, 1))
+fig.savefig(OUT / "03_beyond_catch_up.png", dpi=200)
+plt.close(fig)
 
 # ---------- Write-up ----------
 f = d.loc[FOCUS] if FOCUS in d.index else None
@@ -140,9 +169,18 @@ lines.append(f"- **Vacancy going in vs. rent growth: correlation {r_v:+.2f}** ({
              f"1-point-lower vacancy rate goes with {abs(s_v):.1f} points {'more' if s_v < 0 else 'less'} rent growth.")
 lines.append(f"- **Starting rent vs. rent growth: correlation {r_r:+.2f}** ({strength(r_r)}). Each $100 lower starting rent "
              f"goes with {abs(s_r) * 100:.1f} points {'more' if s_r < 0 else 'less'} rent growth.")
+if f is not None:
+    f = d.loc[FOCUS]
+    lines.append(f"- **Catch-up alone predicts {f['expected_from_start_pct']:.0f}% growth for {FOCUS}; it actually grew "
+                 f"{f['rent_growth_pct']:.0f}%**, {f['beyond_trend_pts']:+.0f} points beyond the trend "
+                 f"(#{int(d['beyond_trend_pts'].rank(ascending=False)[FOCUS])} of {n}). The biggest overshoots: "
+                 + ", ".join(f"{c} ({v:+.0f})" for c, v in d['beyond_trend_pts'].nlargest(5).items()) + ".")
 lines.append(f"- **Together the two factors account for {r2_both * 100:.0f}% of the variation** in rent growth across cities (R²).")
 
-md = f"""# What drove rent growth? Tight markets and catch-up
+verdict = {True: "catch-up", False: "tight markets"}[abs(r_r) >= abs(r_v)]
+headline = ("Catch-up, not tight markets" if abs(r_r) >= 0.4 and abs(r_v) < 0.2
+            else "Tight markets, not catch-up" if abs(r_v) >= 0.4 and abs(r_r) < 0.2 else "Tight markets and catch-up")
+md = f"""# What drove rent growth? {headline}
 
 *CMHC Rental Market Survey (October each year), {n} cities with published data in both tables.
 Generated by [`analysis/what_drives_rent.py`](../../analysis/what_drives_rent.py).*
@@ -161,6 +199,8 @@ Nova Scotia's rents rose fastest. This report tests two other explanations acros
 
 ![Starting rent vs rent growth](02_starting_rent_vs_growth.png)
 
+![Beyond catch-up](03_beyond_catch_up.png)
+
 ## Notes on method
 
 - **Rent growth:** average 2-bedroom rent, row and apartment structures of 3+ units (34-10-0133-01), {base} to {last}.
@@ -168,6 +208,7 @@ Nova Scotia's rents rose fastest. This report tests two other explanations acros
 - **Vacancy going in:** average apartment vacancy rate over {pre_label} (34-10-0127-01), before the population boom.
 - **Cities:** every census metropolitan area with published figures for all three measures; suppressed values are excluded.
   Full list in [`cities.csv`](cities.csv).
+- **"Beyond the trend"** uses a straight-line fit of rent growth on {base} rent across all {n} cities.
 - Correlation is not causation. Both factors can share causes, and city-level averages hide neighbourhood differences.
 """
 (OUT / "README.md").write_text(md)

@@ -18,7 +18,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-from sources import CITY_EXCLUDE, CITY_WIDE, COMPARISON_PROVINCES, PROVINCE_WIDE, PROVINCES, STATCAN_TABLES
+from sources import CITY_EXCLUDE, CITY_WIDE, DISCOVER, COMPARISON_PROVINCES, PROVINCE_WIDE, PROVINCES, STATCAN_TABLES
 
 WDS = "https://www150.statcan.gc.ca/t1/wds/rest"
 OUT = Path("data/statcan")
@@ -83,7 +83,9 @@ def fetch(pid):
                     if city_filter is not None:
                         c = ~chunk["GEO"].str.contains(CITY_EXCLUDE, na=False)
                         for col, vals in city_filter.items():
-                            c &= chunk[col].isin(vals)
+                            if col not in chunk:
+                                continue
+                            c &= chunk[col].str.contains(vals, na=False) if isinstance(vals, str) else chunk[col].isin(vals)
                         cities.append(chunk[c])
     if wide:
         (OUT / "provinces").mkdir(parents=True, exist_ok=True)
@@ -99,6 +101,32 @@ def fetch(pid):
         path.unlink()
         path = OUT / f"{pid}.csv.gz"
     return total, len(df), latest, path
+
+
+def discover():
+    """Find tables by title; return {pid: filters} for the best match of each DISCOVER entry."""
+    r = requests.get(f"{WDS}/getAllCubesListLite", headers=HEADERS, timeout=120)
+    r.raise_for_status()
+    cubes, rows, chosen = r.json(), [], {}
+    for name, rule in DISCOVER.items():
+        hits = [c for c in cubes
+                if all(k in c["cubeTitleEn"].lower() for k in rule["all"])
+                and any(k in c["cubeTitleEn"].lower() for k in rule["any"])]
+        hits.sort(key=lambda c: (str(c.get("cubeEndDate") or ""), -int(c["productId"])), reverse=True)
+        for i, c in enumerate(hits):
+            rows.append({"target": name, "chosen": i == 0, "productId": c["productId"],
+                         "title": c["cubeTitleEn"], "start": c.get("cubeStartDate"), "end": c.get("cubeEndDate")})
+        if hits:
+            pid = str(hits[0]["productId"])
+            print(f"DISCOVER {name}: {pid} {hits[0]['cubeTitleEn']}", flush=True)
+            if pid not in CITY_WIDE:
+                CITY_WIDE[pid] = rule["filters"]
+                chosen[pid] = name
+        else:
+            print(f"DISCOVER {name}: no match", flush=True)
+    Path("data/catalog").mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(rows).to_csv("data/catalog/statcan_candidates.csv", index=False)
+    return chosen
 
 
 def search(term):
@@ -142,4 +170,13 @@ if __name__ == "__main__":
     if args[:1] == ["--search"]:
         search(" ".join(args[1:]))
     else:
-        main(args or list(STATCAN_TABLES))
+        pids = args or list(STATCAN_TABLES)
+        if not args:
+            try:
+                extra = discover()
+                pids += [p for p in extra if p not in pids]
+                for p, name in extra.items():
+                    STATCAN_TABLES[p] = f"discovered: {name}"
+            except Exception as e:
+                print(f"ERR discovery  {e}", flush=True)
+        main(pids)

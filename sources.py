@@ -25,6 +25,8 @@ STATCAN_TABLES = {
     "18100004": "Consumer Price Index, incl. shelter (monthly)",
     # --- Context ---
     "17100009": "Population estimates (quarterly)",
+    "17100148": "Population estimates by census metropolitan area, 2021 boundaries (annual)",
+    "34100154": "CMHC housing starts and completions by city",
     "17100008": "Components of population growth: immigrants, non-permanent residents, interprovincial (annual)",
     "36100434": "GDP by industry incl. real estate (monthly)",
 }
@@ -49,6 +51,18 @@ CITY_WIDE = {
     "34100127": {},
     "34100133": {"Type of structure": ["Row and apartment structures of three units and over"],
                  "Type of unit": ["Two bedroom units"]},
+    # Population by census metropolitan area (totals only: all ages, all genders)
+    "17100148": {"Gender": r"^Total", "Sex": r"^Both|^Total", "Age group": r"^All ages|^Total"},
+    # Housing starts/completions by city (total units, unadjusted)
+    "34100154": {"Type of unit": r"^Total", "Seasonal adjustment": r"^Unadjusted"},
+}
+# Tables found by title at run time; the best match is downloaded with these filters and
+# every candidate is listed in data/catalog/statcan_candidates.csv for review.
+DISCOVER = {
+    "rental_units": {"all": ["canada mortgage and housing corporation", "rental"], "any": ["universe", "number of"],
+                     "filters": {"Type of structure": r"^Row and apartment|^Apartment structures of three",
+                                 "Type of unit": r"^Total"}},
+    "city_housing_starts": {"all": ["housing starts"], "any": ["metropolitan", "centres", "urban"], "filters": {}},
 }
 CITY_EXCLUDE = "New Brunswick"
 

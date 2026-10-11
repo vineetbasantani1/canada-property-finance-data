@@ -7,6 +7,7 @@ Author: Vineet Basantani
 
 ## Reports
 
+- [What actually drove rent increases?](reports/real-rent-factors/README.md) — population growth, new building and rental supply tested together across cities, with rent change in dollars
 - [What drove rent growth? Tight markets and catch-up](reports/what-drives-rent/README.md) — tests across Canadian cities whether low vacancy before the boom, or cheap starting rents, predicted faster rent growth
 - [People vs homes: did population growth drive Nova Scotia's rent surge?](reports/people-vs-homes/README.md) — population growth by source vs housing starts, and a nine-province test of whether more people per new home meant faster rent growth
 - [Nova Scotia housing: rents outpace the country](reports/ns-housing/README.md) — rent inflation, Halifax rents and vacancy, rent growth across NS centres, new-home prices (refreshed weekly)
