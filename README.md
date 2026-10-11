@@ -5,6 +5,10 @@ indicators, with a focus on **Nova Scotia** alongside national figures.
 
 Author: Vineet Basantani
 
+## Reports
+
+- [Nova Scotia housing: rents outpace the country](reports/ns-housing/README.md) — rent inflation, Halifax rents and vacancy, rent growth across NS centres, new-home prices (refreshed weekly)
+
 ## What it collects
 
 | Source | Content |
