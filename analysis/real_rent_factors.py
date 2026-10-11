@@ -71,9 +71,9 @@ def load(table, prefer=None):
 
 def annual_sum(df):
     """Sum monthly/quarterly values to calendar years, keeping only complete years."""
-    per = df.groupby(["city", "year"])["VALUE"].agg(["sum", "count"])
-    full = per["count"].groupby(level="year").transform("max")
-    return per.loc[per["count"] == full, "sum"].unstack()
+    sums = df.groupby(["city", "year"])["VALUE"].sum(min_count=1)
+    periods = df.groupby(["city", "year"])["REF_DATE"].nunique()  # distinct months/quarters, not rows
+    return sums[periods == periods.max()].unstack()
 
 
 manifest = json.loads(Path("data/manifest.json").read_text()) if Path("data/manifest.json").exists() else {}
@@ -211,7 +211,8 @@ scatter("pop_growth_pct", f"Population growth, {BASE}–{p_last}",
 if "homes_per_1000" in d:
     hc = corr["homes_per_1000"]
     scatter("homes_per_1000", f"New homes per 1,000 residents ({supply_note.split(' (')[0]})",
-            "More building went with smaller rent increases" if hc <= -0.3 else "New building vs. rent increases",
+            "More building went with smaller rent increases" if hc <= -0.3
+            else "Rents rose most where builders were busiest" if hc >= 0.3 else "New building vs. rent increases",
             "02_building_vs_rent.png", lambda v, _: f"{v:g}")
 
 # Effects chart
@@ -251,8 +252,12 @@ for k, row in effects.iterrows():
                      f"(95% range {row['low']:+,.0f} to {row['high']:+,.0f}): {verdict}.")
 top = effects.assign(a=effects["effect"].abs()).sort_values("a", ascending=False)
 top_clear = top[top["clear"]]
-headline = (f"{top_clear['label'].iloc[0].split(' (')[0]} mattered most" if len(top_clear)
+builders_chase = "homes_per_1000" in effects.index and effects.loc["homes_per_1000", "effect"] > 0 \
+    and effects.loc["homes_per_1000", "clear"]
+headline = ("Rents rose most where builders were busiest" if builders_chase
+            else f"{top_clear['label'].iloc[0].split(' (')[0]} mattered most" if len(top_clear)
             else "No single factor stands out")
+d["homes_per_new_resident"] = d["new_homes"] / d["new_residents"] if "new_homes" in d else np.nan
 
 focus_lines = []
 if f is not None:
@@ -263,6 +268,12 @@ if f is not None:
     if "homes_per_1000" in d:
         focus_lines.append(f"- **{FOCUS} added {f['homes_per_1000']:.0f} new homes per 1,000 residents**, "
                            f"#{int(d['homes_per_1000'].rank(ascending=False)[FOCUS])} of {n}; median {med['homes_per_1000']:.0f}.")
+    if "new_homes" in d and f["new_residents"] > 0:
+        hpr = d.loc[FOCUS, "homes_per_new_resident"]
+        valid = d[d["new_residents"] > 0]["homes_per_new_resident"]
+        focus_lines.append(f"- **{FOCUS} built {hpr:.2f} new homes per new resident** (about {1 / hpr:.1f} newcomers per home), "
+                           f"against a median of {valid.median():.2f} (about {1 / valid.median():.1f} per home); "
+                           f"#{int(valid.rank()[FOCUS])} lowest of {len(valid)}.")
     focus_lines.append(f"- **The model predicts +${f['predicted_increase']:,.0f}/month for {FOCUS}**; the actual was "
                        f"+${f['rent_increase']:,.0f}.")
 
@@ -271,6 +282,13 @@ if "homes_per_1000" in d:
     charts += "![Building vs rent](02_building_vs_rent.png)\n\n"
 charts += "![What mattered](03_what_mattered.png)"
 
+READ = ("""## How to read this
+
+**This does not mean building raises rents.** Builders start more homes where demand and rents are already rising,
+so in a snapshot across cities, busy building and big rent increases show up together. A comparison like this
+can't separate "building lowers rents" from "builders follow rising rents". Testing that properly needs timing:
+whether a burst of building in one year is followed by slower rent growth a few years later.
+""" if builders_chase else "")
 md = f"""# What actually drove rent increases? {headline}
 
 *{n} cities, CMHC October rental survey {BASE}–{last}. Rent change is measured in **dollars per month**, so cheaper
@@ -284,6 +302,7 @@ Together they explain **{r2 * 100:.0f}%** of the differences in rent increases b
 
 {chr(10).join(eff_lines)}
 
+{READ}
 ## {FOCUS}
 
 {chr(10).join(focus_lines)}

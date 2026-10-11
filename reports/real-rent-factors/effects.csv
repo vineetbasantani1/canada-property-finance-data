@@ -1,0 +1,4 @@
+,label,effect,low,high,clear
+pop_growth_pct,Population growth (%),-13.1,-46.8,20.6,False
+homes_per_1000,"New homes per 1,000 residents",58.0,25.6,90.5,True
+rent_2021,Starting rent (2021),24.4,-7.9,56.8,False

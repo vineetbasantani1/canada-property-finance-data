@@ -45,6 +45,9 @@ jobs:
       - name: Build real rent factors report
         run: python analysis/real_rent_factors.py
         continue-on-error: true
+      - name: Build Halifax supply gap report
+        run: python analysis/halifax_supply_gap.py
+        continue-on-error: true
       - name: Commit updated data
         if: always()
         run: |
