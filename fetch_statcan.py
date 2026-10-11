@@ -18,7 +18,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-from sources import COMPARISON_PROVINCES, PROVINCE_WIDE, PROVINCES, STATCAN_TABLES
+from sources import CITY_EXCLUDE, CITY_WIDE, COMPARISON_PROVINCES, PROVINCE_WIDE, PROVINCES, STATCAN_TABLES
 
 WDS = "https://www150.statcan.gc.ca/t1/wds/rest"
 OUT = Path("data/statcan")
@@ -61,6 +61,7 @@ def fetch(pid):
     OUT.mkdir(parents=True, exist_ok=True)
     total, latest, parts, wide = 0, None, [], []
     wide_filter = PROVINCE_WIDE.get(pid)
+    city_filter, cities = CITY_WIDE.get(pid), []
     with tempfile.TemporaryDirectory() as tmp:
         zpath = Path(tmp) / f"{pid}.zip"
         stream_zip(pid, zpath)
@@ -79,9 +80,17 @@ def fetch(pid):
                         for col, vals in wide_filter.items():
                             w &= chunk[col].isin(vals)
                         wide.append(chunk[w])
+                    if city_filter is not None:
+                        c = ~chunk["GEO"].str.contains(CITY_EXCLUDE, na=False)
+                        for col, vals in city_filter.items():
+                            c &= chunk[col].isin(vals)
+                        cities.append(chunk[c])
     if wide:
         (OUT / "provinces").mkdir(parents=True, exist_ok=True)
         pd.concat(wide).to_csv(OUT / "provinces" / f"{pid}.csv", index=False)
+    if cities:
+        (OUT / "cities").mkdir(parents=True, exist_ok=True)
+        pd.concat(cities).to_csv(OUT / "cities" / f"{pid}.csv", index=False)
     df = pd.concat(parts) if parts else pd.DataFrame()
     path = OUT / f"{pid}.csv"
     df.to_csv(path, index=False)

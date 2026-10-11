@@ -44,6 +44,14 @@ PROVINCE_WIDE = {
     "18100004": {"Products and product groups": ["All-items", "Rent", "Shelter"]},
 }
 
+# CMHC rental tables kept for every city (outside New Brunswick), for cross-city comparisons
+CITY_WIDE = {
+    "34100127": {},
+    "34100133": {"Type of structure": ["Row and apartment structures of three units and over"],
+                 "Type of unit": ["Two bedroom units"]},
+}
+CITY_EXCLUDE = "New Brunswick"
+
 # Bank of Canada Valet API series (national; rates are not provincial)
 BOC_SERIES = {
     "V39079": "Target for the overnight rate",

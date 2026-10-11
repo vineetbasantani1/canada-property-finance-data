@@ -36,6 +36,12 @@ jobs:
       - name: Build Nova Scotia housing report
         run: python analysis/ns_housing_report.py
         continue-on-error: true
+      - name: Build people vs homes report
+        run: python analysis/people_vs_homes.py
+        continue-on-error: true
+      - name: Build what drives rent report
+        run: python analysis/what_drives_rent.py
+        continue-on-error: true
       - name: Commit updated data
         if: always()
         run: |
