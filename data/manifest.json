@@ -1,7 +1,7 @@
 {
   "boc:BD.CDN.10YR.DQ.YLD": {
     "expected": "Government of Canada 10-year bond yield",
-    "fetched_utc": "2026-10-11T16:33:31+00:00",
+    "fetched_utc": "2026-10-11T16:59:15+00:00",
     "latest_period": "2026-10-08",
     "rows": 6444,
     "source": "https://www.bankofcanada.ca/valet/observations/BD.CDN.10YR.DQ.YLD",
@@ -9,7 +9,7 @@
   },
   "boc:BD.CDN.5YR.DQ.YLD": {
     "expected": "Government of Canada 5-year bond yield",
-    "fetched_utc": "2026-10-11T16:33:31+00:00",
+    "fetched_utc": "2026-10-11T16:59:15+00:00",
     "latest_period": "2026-10-08",
     "rows": 6443,
     "source": "https://www.bankofcanada.ca/valet/observations/BD.CDN.5YR.DQ.YLD",
@@ -17,7 +17,7 @@
   },
   "boc:FXUSDCAD": {
     "expected": "USD/CAD exchange rate",
-    "fetched_utc": "2026-10-11T16:33:31+00:00",
+    "fetched_utc": "2026-10-11T16:59:16+00:00",
     "latest_period": "2026-10-09",
     "rows": 2438,
     "source": "https://www.bankofcanada.ca/valet/observations/FXUSDCAD",
@@ -25,7 +25,7 @@
   },
   "boc:V39079": {
     "expected": "Target for the overnight rate",
-    "fetched_utc": "2026-10-11T16:33:30+00:00",
+    "fetched_utc": "2026-10-11T16:59:15+00:00",
     "latest_period": "2026-10-08",
     "rows": 4544,
     "source": "https://www.bankofcanada.ca/valet/observations/V39079",
@@ -33,7 +33,7 @@
   },
   "boc:V80691311": {
     "expected": "Prime business rate",
-    "fetched_utc": "2026-10-11T16:33:30+00:00",
+    "fetched_utc": "2026-10-11T16:59:15+00:00",
     "latest_period": "2026-10-07",
     "rows": 2702,
     "source": "https://www.bankofcanada.ca/valet/observations/V80691311",
@@ -41,7 +41,7 @@
   },
   "boc:V80691335": {
     "expected": "5-year conventional mortgage rate",
-    "fetched_utc": "2026-10-11T16:33:31+00:00",
+    "fetched_utc": "2026-10-11T16:59:15+00:00",
     "latest_period": "2026-10-07",
     "rows": 2702,
     "source": "https://www.bankofcanada.ca/valet/observations/V80691335",
@@ -50,7 +50,7 @@
   "statcan:10100006": {
     "canada_ns_rows": 16626,
     "expected": "Credit measures, Bank of Canada (monthly)",
-    "fetched_utc": "2026-10-11T16:41:55+00:00",
+    "fetched_utc": "2026-10-11T17:03:44+00:00",
     "file": "data/statcan/10100006.csv",
     "latest_period": "2026-07",
     "national_rows": 16626,
@@ -60,17 +60,27 @@
   "statcan:11100065": {
     "canada_ns_rows": 8468,
     "expected": "Debt service indicators of households (quarterly)",
-    "fetched_utc": "2026-10-11T16:41:54+00:00",
+    "fetched_utc": "2026-10-11T17:03:44+00:00",
     "file": "data/statcan/11100065.csv",
     "latest_period": "2026-04",
     "national_rows": 8468,
     "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110006501",
     "title": "Debt service indicators of households, national balance sheet accounts"
   },
+  "statcan:17100008": {
+    "canada_ns_rows": 1119,
+    "expected": "Components of population growth: immigrants, non-permanent residents, interprovincial (annual)",
+    "fetched_utc": "2026-10-11T17:03:53+00:00",
+    "file": "data/statcan/17100008.csv",
+    "latest_period": "2025/2026",
+    "national_rows": 7815,
+    "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801",
+    "title": "Estimates of the components of demographic growth, annual"
+  },
   "statcan:17100009": {
     "canada_ns_rows": 624,
     "expected": "Population estimates (quarterly)",
-    "fetched_utc": "2026-10-11T16:42:10+00:00",
+    "fetched_utc": "2026-10-11T17:03:53+00:00",
     "file": "data/statcan/17100009.csv",
     "latest_period": "2026-07-01",
     "national_rows": 4077,
@@ -80,7 +90,7 @@
   "statcan:18100004": {
     "canada_ns_rows": 270316,
     "expected": "Consumer Price Index, incl. shelter (monthly)",
-    "fetched_utc": "2026-10-11T16:42:09+00:00",
+    "fetched_utc": "2026-10-11T17:03:52+00:00",
     "file": "data/statcan/18100004.csv",
     "latest_period": "2026-08",
     "national_rows": 1152913,
@@ -90,7 +100,7 @@
   "statcan:18100205": {
     "canada_ns_rows": 4932,
     "expected": "New housing price index (monthly)",
-    "fetched_utc": "2026-10-11T16:33:33+00:00",
+    "fetched_utc": "2026-10-11T16:59:17+00:00",
     "file": "data/statcan/18100205.csv",
     "latest_period": "2026-08",
     "national_rows": 65760,
@@ -100,7 +110,7 @@
   "statcan:34100127": {
     "canada_ns_rows": 55,
     "expected": "CMHC vacancy rates, apartments (annual)",
-    "fetched_utc": "2026-10-11T16:33:37+00:00",
+    "fetched_utc": "2026-10-11T16:59:19+00:00",
     "file": "data/statcan/34100127.csv",
     "latest_period": "2025",
     "national_rows": 1746,
@@ -110,7 +120,7 @@
   "statcan:34100133": {
     "canada_ns_rows": 6868,
     "expected": "CMHC average rents, areas 10,000+ (annual)",
-    "fetched_utc": "2026-10-11T16:33:36+00:00",
+    "fetched_utc": "2026-10-11T16:59:18+00:00",
     "file": "data/statcan/34100133.csv",
     "latest_period": "2025",
     "national_rows": 132344,
@@ -120,7 +130,7 @@
   "statcan:34100135": {
     "canada_ns_rows": 10424,
     "expected": "CMHC housing starts, under construction and completions (quarterly)",
-    "fetched_utc": "2026-10-11T16:33:38+00:00",
+    "fetched_utc": "2026-10-11T16:59:20+00:00",
     "file": "data/statcan/34100135.csv",
     "latest_period": "2026-04",
     "national_rows": 56480,
@@ -130,7 +140,7 @@
   "statcan:34100292": {
     "canada_ns_rows": 2346752,
     "expected": "Building permits by type of structure (monthly)",
-    "fetched_utc": "2026-10-11T16:40:05+00:00",
+    "fetched_utc": "2026-10-11T17:02:30+00:00",
     "file": "data/statcan/34100292.csv.gz",
     "latest_period": "2026-07",
     "national_rows": 38713992,
@@ -140,7 +150,7 @@
   "statcan:36100434": {
     "canada_ns_rows": 265185,
     "expected": "GDP by industry incl. real estate (monthly)",
-    "fetched_utc": "2026-10-11T16:42:24+00:00",
+    "fetched_utc": "2026-10-11T17:03:59+00:00",
     "file": "data/statcan/36100434.csv.gz",
     "latest_period": "2026-07",
     "national_rows": 265185,
@@ -150,7 +160,7 @@
   "statcan:46100027": {
     "canada_ns_rows": 89150,
     "expected": "Canadian Housing Statistics Program: residential property values",
-    "fetched_utc": "2026-10-11T16:41:53+00:00",
+    "fetched_utc": "2026-10-11T17:03:43+00:00",
     "file": "data/statcan/46100027.csv",
     "latest_period": "2022",
     "national_rows": 17628800,
