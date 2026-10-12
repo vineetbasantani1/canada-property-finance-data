@@ -20,8 +20,8 @@ PROV = Path("data/statcan/provinces")
 OUT = Path("reports/people-vs-homes")
 OUT.mkdir(parents=True, exist_ok=True)
 
-# Validated reference palette, categorical slots 1-4 in fixed order
-S1, S2, S3, S4 = "#2a78d6", "#eb6834", "#1baf7a", "#eda100"
+# Validated palette, categorical slots 1-4 in fixed order (brand red first)
+S1, S2, S3, S4 = "#B3141B", "#2a78d6", "#1baf7a", "#eda100"
 SURFACE, INK, INK2, GRID, MUTED = "#fcfcfb", "#0b0b0b", "#52514e", "#e4e3df", "#a3a29c"
 plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE, "savefig.facecolor": SURFACE,

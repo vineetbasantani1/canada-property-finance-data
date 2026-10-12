@@ -18,8 +18,8 @@ DATA = Path("data")
 OUT = Path("reports/ns-housing")
 OUT.mkdir(parents=True, exist_ok=True)
 
-# Palette (validated reference instance): slot 1 = Nova Scotia, slot 2 = Canada
-NS, CA = "#2a78d6", "#eb6834"
+# Palette (validated): brand red first, then reference blue. Slot 1 = Nova Scotia, slot 2 = Canada
+NS, CA = "#B3141B", "#2a78d6"
 SURFACE, INK, INK2, GRID = "#fcfcfb", "#0b0b0b", "#52514e", "#e4e3df"
 
 plt.rcParams.update({

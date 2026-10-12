@@ -1,4 +1,8 @@
+![Canada Property & Finance Data](assets/banner.png)
+
 # Canada Property & Finance Data
+
+![language: Python 3.12](https://img.shields.io/badge/language-Python_3.12-B3141B?style=flat-square&labelColor=1B1F23) ![data: Statistics Canada + Bank of Canada](https://img.shields.io/badge/data-Statistics_Canada_%2B_Bank_of_Canada-B3141B?style=flat-square&labelColor=1B1F23) ![refreshed: every Monday](https://img.shields.io/badge/refreshed-every_Monday-B3141B?style=flat-square&labelColor=1B1F23)
 
 Open-data pipeline and analysis of Canadian housing, property and household-finance
 indicators, with a focus on **Nova Scotia** alongside national figures.

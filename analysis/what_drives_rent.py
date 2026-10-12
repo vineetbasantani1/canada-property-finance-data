@@ -22,7 +22,7 @@ CITIES = Path("data/statcan/cities")
 OUT = Path("reports/what-drives-rent")
 OUT.mkdir(parents=True, exist_ok=True)
 
-S1 = "#2a78d6"
+S1 = "#B3141B"
 SURFACE, INK, INK2, GRID, MUTED = "#fcfcfb", "#0b0b0b", "#52514e", "#e4e3df", "#a3a29c"
 plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE, "savefig.facecolor": SURFACE,

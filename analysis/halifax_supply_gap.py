@@ -23,7 +23,7 @@ CITY = "Halifax"
 PRE = (2016, 2019)   # pre-boom benchmark years (July-June years starting in these years)
 BOOM = (2021, 2023)
 
-S1, S2 = "#2a78d6", "#eb6834"
+S1, S2 = "#B3141B", "#2a78d6"
 SURFACE, INK, INK2, GRID = "#fcfcfb", "#0b0b0b", "#52514e", "#e4e3df"
 plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE, "savefig.facecolor": SURFACE,
