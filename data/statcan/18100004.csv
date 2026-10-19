@@ -270315,3 +270315,465 @@ REF_DATE,GEO,DGUID,Products and product groups,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_I
 2026-08,"Halifax, Nova Scotia",2011S0503205,Rented accommodation,2002=100,17,units,0,v41692860,8.80,186.8,,,,1
 2026-08,"Halifax, Nova Scotia",2011S0503205,Owned accommodation,2002=100,17,units,0,v41692861,8.84,188.4,,,,1
 2026-08,"Halifax, Nova Scotia",2011S0503205,"Water, fuel and electricity",2002=100,17,units,0,v41692862,8.91,278.3,,,,1
+2026-09,Canada,2016A000011124,All-items,2002=100,17,units,0,v41690973,2.2,170.0,,,,1
+2026-09,Canada,2016A000011124,Food,2002=100,17,units,0,v41690974,2.3,201.8,,,,1
+2026-09,Canada,2016A000011124,Food purchased from stores,2002=100,17,units,0,v41690975,2.4,198.3,,,,1
+2026-09,Canada,2016A000011124,Meat,2002=100,17,units,0,v41690976,2.5,235.1,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen meat (excluding poultry),2002=100,17,units,0,v41690977,2.6,276.5,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen beef,2002=100,17,units,0,v41690978,2.7,328.9,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen beef hip cuts (202404=100),202404=100,452,units,0,v1592274385,2.382,128.9,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen beef loin cuts (202404=100),202404=100,452,units,0,v1592274386,2.383,130.6,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen beef rib cuts (202404=100),202404=100,452,units,0,v1592274387,2.384,129.4,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen beef chuck cuts (202404=100),202404=100,452,units,0,v1592274388,2.385,131.8,,,,1
+2026-09,Canada,2016A000011124,Fresh stewing beef (202404=100),202404=100,452,units,0,v1592274389,2.386,127.2,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen ground beef (202404=100),202404=100,452,units,0,v1592274390,2.387,143.5,,,,1
+2026-09,Canada,2016A000011124,Other fresh or frozen beef (202404=100),202404=100,452,units,0,v1592274391,2.388,134.5,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen pork,2002=100,17,units,0,v41690979,2.8,184.8,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen pork loin cuts (202404=100),202404=100,452,units,0,v1592274392,2.389,112.5,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen pork shoulder cuts (202404=100),202404=100,452,units,0,v1592274393,2.390,110.5,,,,1
+2026-09,Canada,2016A000011124,Other fresh or frozen pork (202404=100),202404=100,452,units,0,v1592274394,2.391,111.4,,,,1
+2026-09,Canada,2016A000011124,Other fresh or frozen meat (excluding poultry),2002=100,17,units,0,v41690980,2.9,222.6,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen poultry,2002=100,17,units,0,v41690981,2.10,217.8,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen chicken,2002=100,17,units,0,v41690982,2.11,227.4,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen chicken breasts (202404=100),202404=100,452,units,0,v1592274395,2.392,103.8,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen chicken thighs (202404=100),202404=100,452,units,0,v1592274396,2.393,104.0,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen chicken drumsticks (202404=100),202404=100,452,units,0,v1592274397,2.394,104.4,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen whole chicken (202404=100),202404=100,452,units,0,v1592274398,2.395,113.6,,,,1
+2026-09,Canada,2016A000011124,Other fresh or frozen chicken (202404=100),202404=100,452,units,0,v1592274399,2.396,104.7,,,,1
+2026-09,Canada,2016A000011124,Other fresh or frozen poultry,2002=100,17,units,0,v41690983,2.12,167.6,,,,1
+2026-09,Canada,2016A000011124,Processed meat,2002=100,17,units,0,v41690984,2.13,205.7,,,,1
+2026-09,Canada,2016A000011124,Ham and bacon,2002=100,17,units,0,v41690985,2.14,185.0,,,,1
+2026-09,Canada,2016A000011124,Bacon (2013=100),2013=100,25,units,0,v122665855,2.316,162.7,,,,1
+2026-09,Canada,2016A000011124,Ham excluding deli ham (2013=100),2013=100,25,units,0,v122665856,2.317,156.9,,,,1
+2026-09,Canada,2016A000011124,Other processed meat,2002=100,17,units,0,v41690986,2.15,216.3,,,,1
+2026-09,Canada,2016A000011124,"Fish, seafood and other marine products",2002=100,17,units,0,v41690987,2.16,171.9,,,,1
+2026-09,Canada,2016A000011124,Fish,2002=100,17,units,0,v41690988,2.17,193.1,,,,1
+2026-09,Canada,2016A000011124,Fresh or frozen fish (including portions and fish sticks),2002=100,17,units,0,v41690989,2.18,187.5,,,,1
+2026-09,Canada,2016A000011124,Canned and other preserved fish,2002=100,17,units,0,v41690990,2.19,204.6,,,,1
+2026-09,Canada,2016A000011124,Canned salmon (2013=100),2013=100,25,units,0,v122665857,2.318,193.8,,,,1
+2026-09,Canada,2016A000011124,Canned tuna (2013=100),2013=100,25,units,0,v122665858,2.319,136.3,,,,1
+2026-09,Canada,2016A000011124,Seafood and other marine products,2002=100,17,units,0,v41690991,2.20,126.5,,,,1
+2026-09,Canada,2016A000011124,Shrimps and prawns (2013=100),2013=100,25,units,0,v122665859,2.320,129.9,,,,1
+2026-09,Canada,2016A000011124,Other shellfish (2013=100),2013=100,25,units,0,v122665860,2.321,130.0,,,,1
+2026-09,Canada,2016A000011124,Dairy products and eggs,2002=100,17,units,0,v41690992,2.21,179.5,,,,1
+2026-09,Canada,2016A000011124,Dairy products,2002=100,17,units,0,v41690993,2.22,175.6,,,,1
+2026-09,Canada,2016A000011124,Fresh milk,2002=100,17,units,0,v41690994,2.23,186.1,,,,1
+2026-09,Canada,2016A000011124,Whole milk (2013=100),2013=100,25,units,0,v122665861,2.322,135.3,,,,1
+2026-09,Canada,2016A000011124,Low-fat milk (2013=100),2013=100,25,units,0,v122665862,2.323,135.0,,,,1
+2026-09,Canada,2016A000011124,Butter,2002=100,17,units,0,v41690995,2.24,201.8,,,,1
+2026-09,Canada,2016A000011124,Cheese,2002=100,17,units,0,v41690996,2.25,160.0,,,,1
+2026-09,Canada,2016A000011124,Cheddar cheese (2013=100),2013=100,25,units,0,v122665863,2.324,111.5,,,,1
+2026-09,Canada,2016A000011124,Processed cheese (2013=100),2013=100,25,units,0,v122665864,2.325,125.4,,,,1
+2026-09,Canada,2016A000011124,Unripened or fresh cheese (2013=100),2013=100,25,units,0,v122665865,2.326,155.7,,,,1
+2026-09,Canada,2016A000011124,Mozzarella cheese (2013=100),2013=100,25,units,0,v122665866,2.327,113.6,,,,1
+2026-09,Canada,2016A000011124,Ice cream and related products,2002=100,17,units,0,v41690997,2.26,151.2,,,,1
+2026-09,Canada,2016A000011124,Other dairy products,2002=100,17,units,0,v41690998,2.27,188.5,,,,1
+2026-09,Canada,2016A000011124,Eggs,2002=100,17,units,0,v41690999,2.28,222.8,,,,1
+2026-09,Canada,2016A000011124,Bakery and cereal products (excluding baby food),2002=100,17,units,0,v41691000,2.29,200.5,,,,1
+2026-09,Canada,2016A000011124,Bakery products,2002=100,17,units,0,v41691001,2.30,215.2,,,,1
+2026-09,Canada,2016A000011124,"Bread, rolls and buns",2002=100,17,units,0,v41691002,2.31,222.4,,,,1
+2026-09,Canada,2016A000011124,Cookies and crackers,2002=100,17,units,0,v41691003,2.32,203.7,,,,1
+2026-09,Canada,2016A000011124,Other bakery products,2002=100,17,units,0,v41691004,2.33,206.2,,,,1
+2026-09,Canada,2016A000011124,Cereal products (excluding baby food),2002=100,17,units,0,v41691005,2.34,174.9,,,,1
+2026-09,Canada,2016A000011124,Rice and rice-based mixes,2002=100,17,units,0,v41691006,2.35,181.1,,,,1
+2026-09,Canada,2016A000011124,Breakfast cereal and other cereal products (excluding baby food),2002=100,17,units,0,v41691007,2.36,157.0,,,,1
+2026-09,Canada,2016A000011124,Pasta products,2002=100,17,units,0,v41691008,2.37,208.2,,,,1
+2026-09,Canada,2016A000011124,Dry or fresh pasta (2013=100),2013=100,25,units,0,v122665869,2.330,129.7,,,,1
+2026-09,Canada,2016A000011124,Pasta mixes (2013=100),2013=100,25,units,0,v122665870,2.331,169.1,,,,1
+2026-09,Canada,2016A000011124,Flour and flour-based mixes,2002=100,17,units,0,v41691009,2.38,186.0,,,,1
+2026-09,Canada,2016A000011124,"Fruit, fruit preparations and nuts",2002=100,17,units,0,v41691010,2.39,179.6,,,,1
+2026-09,Canada,2016A000011124,Fresh fruit,2002=100,17,units,0,v41691011,2.40,169.6,,,,1
+2026-09,Canada,2016A000011124,Apples,2002=100,17,units,0,v41691012,2.41,223.4,,,,1
+2026-09,Canada,2016A000011124,Oranges,2002=100,17,units,0,v41691013,2.42,184.1,,,,1
+2026-09,Canada,2016A000011124,Bananas,2002=100,17,units,0,v41691014,2.43,156.7,,,,1
+2026-09,Canada,2016A000011124,Citrus (excluding oranges) (202304=100),202304=100,438,units,0,v1563916447,2.373,98.2,,,,1
+2026-09,Canada,2016A000011124,Grapes (202304=100),202304=100,438,units,0,v1563916448,2.374,113.8,,,,1
+2026-09,Canada,2016A000011124,Berries (including cherries) (202304=100),202304=100,438,units,0,v1563916449,2.375,92.0,,,,1
+2026-09,Canada,2016A000011124,Other fresh fruit,2002=100,17,units,0,v41691015,2.44,160.9,,,,1
+2026-09,Canada,2016A000011124,Preserved fruit and fruit preparations,2002=100,17,units,0,v41691016,2.45,194.4,,,,1
+2026-09,Canada,2016A000011124,Fruit juices,2002=100,17,units,0,v41691017,2.46,203.6,,,,1
+2026-09,Canada,2016A000011124,Other preserved fruit and fruit preparations,2002=100,17,units,0,v41691018,2.47,174.9,,,,1
+2026-09,Canada,2016A000011124,Canned fruit (2013=100),2013=100,25,units,0,v122665871,2.332,155.8,,,,1
+2026-09,Canada,2016A000011124,"Jam, jelly and other preserves (2013=100)",2013=100,25,units,0,v122665872,2.333,161.6,,,,1
+2026-09,Canada,2016A000011124,Dried and dehydrated fruit (2013=100),2013=100,25,units,0,v122665873,2.334,162.8,,,,1
+2026-09,Canada,2016A000011124,Frozen fruit (2013=100),2013=100,25,units,0,v122665874,2.335,115.0,,,,1
+2026-09,Canada,2016A000011124,Nuts and seeds,2002=100,17,units,0,v41691019,2.48,196.6,,,,1
+2026-09,Canada,2016A000011124,Vegetables and vegetable preparations,2002=100,17,units,0,v41691020,2.49,189.9,,,,1
+2026-09,Canada,2016A000011124,Fresh vegetables,2002=100,17,units,0,v41691021,2.50,185.8,,,,1
+2026-09,Canada,2016A000011124,Potatoes,2002=100,17,units,0,v41691022,2.51,152.7,,,,1
+2026-09,Canada,2016A000011124,Tomatoes,2002=100,17,units,0,v41691023,2.52,154.0,,,,1
+2026-09,Canada,2016A000011124,Lettuce,2002=100,17,units,0,v41691024,2.53,178.2,,,,1
+2026-09,Canada,2016A000011124,Carrots (202304=100),202304=100,438,units,0,v1563916450,2.376,106.3,,,,1
+2026-09,Canada,2016A000011124,Onions (202304=100),202304=100,438,units,0,v1563916451,2.377,124.6,,,,1
+2026-09,Canada,2016A000011124,Peppers (202304=100),202304=100,438,units,0,v1563916452,2.378,76.8,,,,1
+2026-09,Canada,2016A000011124,Cucumber (202304=100),202304=100,438,units,0,v1563916453,2.379,90.0,,,,1
+2026-09,Canada,2016A000011124,Mushrooms (202304=100),202304=100,438,units,0,v1563916454,2.380,102.3,,,,1
+2026-09,Canada,2016A000011124,Other fresh vegetables,2002=100,17,units,0,v41691025,2.54,235.1,,,,1
+2026-09,Canada,2016A000011124,Preserved vegetables and vegetable preparations,2002=100,17,units,0,v41691026,2.55,199.4,,,,1
+2026-09,Canada,2016A000011124,Frozen and dried vegetables,2002=100,17,units,0,v41691027,2.56,206.6,,,,1
+2026-09,Canada,2016A000011124,Canned vegetables and other vegetable preparations,2002=100,17,units,0,v41691028,2.57,200.1,,,,1
+2026-09,Canada,2016A000011124,Other food products and non-alcoholic beverages,2002=100,17,units,0,v41691029,2.58,194.2,,,,1
+2026-09,Canada,2016A000011124,Sugar and confectionery,2002=100,17,units,0,v41691030,2.59,189.9,,,,1
+2026-09,Canada,2016A000011124,Sugar and syrup,2002=100,17,units,0,v41691031,2.60,151.9,,,,1
+2026-09,Canada,2016A000011124,Confectionery,2002=100,17,units,0,v41691032,2.61,198.3,,,,1
+2026-09,Canada,2016A000011124,Edible fats and oils,2002=100,17,units,0,v41691033,2.62,240.4,,,,1
+2026-09,Canada,2016A000011124,Margarine,2002=100,17,units,0,v41691034,2.63,257.4,,,,1
+2026-09,Canada,2016A000011124,Other edible fats and oils,2002=100,17,units,0,v41691035,2.64,219.8,,,,1
+2026-09,Canada,2016A000011124,Coffee and tea,2002=100,17,units,0,v41691036,2.65,204.4,,,,1
+2026-09,Canada,2016A000011124,Coffee,2002=100,17,units,0,v41691037,2.66,215.3,,,,1
+2026-09,Canada,2016A000011124,Roasted or ground coffee (2013=100),2013=100,25,units,0,v122665875,2.336,174.4,,,,1
+2026-09,Canada,2016A000011124,Instant and other coffee (2013=100),2013=100,25,units,0,v122665876,2.337,129.6,,,,1
+2026-09,Canada,2016A000011124,Tea,2002=100,17,units,0,v41691038,2.67,161.7,,,,1
+2026-09,Canada,2016A000011124,"Condiments, spices and vinegars",2002=100,17,units,0,v41691039,2.68,172.7,,,,1
+2026-09,Canada,2016A000011124,Other food preparations,2002=100,17,units,0,v41691040,2.69,198.2,,,,1
+2026-09,Canada,2016A000011124,Soup,2002=100,17,units,0,v41691041,2.70,184.4,,,,1
+2026-09,Canada,2016A000011124,Baby foods,2002=100,17,units,0,v41691042,2.71,181.3,,,,1
+2026-09,Canada,2016A000011124,Canned infant or junior foods (2013=100),2013=100,25,units,0,v122665880,2.341,136.1,,,,1
+2026-09,Canada,2016A000011124,Infant formula (2013=100),2013=100,25,units,0,v122665881,2.342,147.2,,,,1
+2026-09,Canada,2016A000011124,Frozen food preparations,2002=100,17,units,0,v41691043,2.72,169.7,,,,1
+2026-09,Canada,2016A000011124,All other food preparations,2002=100,17,units,0,v41691044,2.73,219.0,,,,1
+2026-09,Canada,2016A000011124,Nut butter (2013=100),2013=100,25,units,0,v122665882,2.343,106.1,,,,1
+2026-09,Canada,2016A000011124,Potato chips and other snack products n.e.c. (2013=100),2013=100,25,units,0,v122665883,2.344,129.9,,,,1
+2026-09,Canada,2016A000011124,All other miscellaneous food preparations (2013=100),2013=100,25,units,0,v122665884,2.345,198.1,,,,1
+2026-09,Canada,2016A000011124,Non-alcoholic beverages,2002=100,17,units,0,v41691045,2.74,184.6,,,,1
+2026-09,Canada,2016A000011124,Food purchased from restaurants,2002=100,17,units,0,v41691046,2.75,208.6,,,,1
+2026-09,Canada,2016A000011124,Food purchased from table-service restaurants,2002=100,17,units,0,v41691047,2.76,207.0,,,,1
+2026-09,Canada,2016A000011124,Food purchased from fast food and take-out restaurants,2002=100,17,units,0,v41691048,2.77,211.5,,,,1
+2026-09,Canada,2016A000011124,Food purchased from cafeterias and other restaurants,2002=100,17,units,0,v41691049,2.78,208.9,,,,1
+2026-09,Canada,2016A000011124,Shelter,2002=100,17,units,0,v41691050,2.79,191.5,,,,1
+2026-09,Canada,2016A000011124,Rented accommodation,2002=100,17,units,0,v41691051,2.80,168.5,,,,1
+2026-09,Canada,2016A000011124,Rent,2002=100,17,units,0,v41691052,2.81,169.1,,,,1
+2026-09,Canada,2016A000011124,Tenants' insurance premiums,2002=100,17,units,0,v41691053,2.82,128.3,,,,1
+2026-09,Canada,2016A000011124,"Tenants' maintenance, repairs and other expenses",2002=100,17,units,0,v41691054,2.83,184.5,,,,1
+2026-09,Canada,2016A000011124,Owned accommodation,2002=100,17,units,0,v41691055,2.84,196.3,,,,1
+2026-09,Canada,2016A000011124,Mortgage interest cost,2002=100,17,units,0,v41691056,2.85,183.2,,,,1
+2026-09,Canada,2016A000011124,Homeowners' replacement cost,2002=100,17,units,0,v41691057,2.86,201.3,,,,1
+2026-09,Canada,2016A000011124,Property taxes and other special charges,2002=100,17,units,0,v41691058,2.87,210.2,,,,1
+2026-09,Canada,2016A000011124,Homeowners' home and mortgage insurance,2002=100,17,units,0,v41691059,2.88,382.5,,,,1
+2026-09,Canada,2016A000011124,Homeowners' maintenance and repairs,2002=100,17,units,0,v41691060,2.89,172.6,,,,1
+2026-09,Canada,2016A000011124,Other owned accommodation expenses,2002=100,17,units,0,v41691061,2.90,204.6,,,,1
+2026-09,Canada,2016A000011124,"Water, fuel and electricity",2002=100,17,units,0,v41691062,2.91,205.9,,,,1
+2026-09,Canada,2016A000011124,Electricity,2002=100,17,units,0,v41691063,2.92,178.5,,,,1
+2026-09,Canada,2016A000011124,Water,2002=100,17,units,0,v41691064,2.93,326.2,,,,1
+2026-09,Canada,2016A000011124,Natural gas,2002=100,17,units,0,v41691065,2.94,129.2,,,,1
+2026-09,Canada,2016A000011124,Fuel oil and other fuels,2002=100,17,units,0,v41691066,2.95,494.8,,,,1
+2026-09,Canada,2016A000011124,"Household operations, furnishings and equipment",2002=100,17,units,0,v41691067,2.96,134.7,,,,1
+2026-09,Canada,2016A000011124,Household operations,2002=100,17,units,0,v41691068,2.97,146.6,,,,1
+2026-09,Canada,2016A000011124,Communications,2002=100,17,units,0,v41691069,2.98,94.2,,,,1
+2026-09,Canada,2016A000011124,Telephone services,2002=100,17,units,0,v41691070,2.99,75.1,,,,1
+2026-09,Canada,2016A000011124,Cellular services (2017=100),2017=100,402,units,0,v1212387935,2.368,48.1,,,,1
+2026-09,Canada,2016A000011124,Postal and other communications services,2002=100,17,units,0,v41691071,2.100,273.9,,,,1
+2026-09,Canada,2016A000011124,Internet access services (200212=100),200212=100,16,units,0,v41693216,2.297,118.2,,,,1
+2026-09,Canada,2016A000011124,Child care and housekeeping services,2002=100,17,units,0,v41691072,2.101,156.5,,,,1
+2026-09,Canada,2016A000011124,Child care services,2002=100,17,units,0,v41691073,2.102,116.5,,,,1
+2026-09,Canada,2016A000011124,Housekeeping services,2002=100,17,units,0,v41691074,2.103,244.1,,,,1
+2026-09,Canada,2016A000011124,Household cleaning products,2002=100,17,units,0,v41691075,2.104,144.4,,,,1
+2026-09,Canada,2016A000011124,Detergents and soaps (other than personal care),2002=100,17,units,0,v41691076,2.105,120.9,,,,1
+2026-09,Canada,2016A000011124,Laundry detergents and soaps (2013=100),2013=100,25,units,0,v122665885,2.346,121.4,,,,1
+2026-09,Canada,2016A000011124,Detergents and rinse agents for dish washing (2013=100),2013=100,25,units,0,v122665886,2.347,132.1,,,,1
+2026-09,Canada,2016A000011124,Other household cleaning products,2002=100,17,units,0,v41691077,2.106,174.6,,,,1
+2026-09,Canada,2016A000011124,Household cleaning and polishing products (2013=100),2013=100,25,units,0,v122665887,2.348,116.8,,,,1
+2026-09,Canada,2016A000011124,Bleach and other household chemical products (2013=100),2013=100,25,units,0,v122665888,2.349,147.7,,,,1
+2026-09,Canada,2016A000011124,Fabric softener (2013=100),2013=100,25,units,0,v122665889,2.350,123.8,,,,1
+2026-09,Canada,2016A000011124,"Paper, plastic and aluminum foil supplies",2002=100,17,units,0,v41691078,2.107,166.9,,,,1
+2026-09,Canada,2016A000011124,Paper supplies,2002=100,17,units,0,v41691079,2.108,171.1,,,,1
+2026-09,Canada,2016A000011124,Household paper supplies (2013=100),2013=100,25,units,0,v122665890,2.351,130.2,,,,1
+2026-09,Canada,2016A000011124,Stationery (2013=100),2013=100,25,units,0,v122665891,2.352,169.3,,,,1
+2026-09,Canada,2016A000011124,Plastic and aluminum foil supplies,2002=100,17,units,0,v41691080,2.109,154.7,,,,1
+2026-09,Canada,2016A000011124,Other household goods and services,2002=100,17,units,0,v41691081,2.110,189.2,,,,1
+2026-09,Canada,2016A000011124,Pet food and supplies,2002=100,17,units,0,v41691082,2.111,190.3,,,,1
+2026-09,Canada,2016A000011124,"Seeds, plants and cut flowers",2002=100,17,units,0,v41691083,2.112,157.8,,,,1
+2026-09,Canada,2016A000011124,Other horticultural goods,2002=100,17,units,0,v41691084,2.113,138.8,,,,1
+2026-09,Canada,2016A000011124,Other household supplies,2002=100,17,units,0,v41691085,2.114,136.1,,,,1
+2026-09,Canada,2016A000011124,Other household services,2002=100,17,units,0,v41691086,2.115,252.9,,,,1
+2026-09,Canada,2016A000011124,Financial services (200212=100),200212=100,16,units,0,v41693229,2.298,175.9,,,,1
+2026-09,Canada,2016A000011124,Household furnishings and equipment,2002=100,17,units,0,v41691087,2.116,113.7,,,,1
+2026-09,Canada,2016A000011124,Furniture and household textiles,2002=100,17,units,0,v41691088,2.117,111.9,,,,1
+2026-09,Canada,2016A000011124,Furniture,2002=100,17,units,0,v41691089,2.118,106.1,,,,1
+2026-09,Canada,2016A000011124,Upholstered furniture,2002=100,17,units,0,v41691090,2.119,107.9,,,,1
+2026-09,Canada,2016A000011124,Wooden furniture,2002=100,17,units,0,v41691091,2.120,116.5,,,,1
+2026-09,Canada,2016A000011124,Other furniture,2002=100,17,units,0,v41691092,2.121,95.4,,,,1
+2026-09,Canada,2016A000011124,Household textiles,2002=100,17,units,0,v41691093,2.122,137.4,,,,1
+2026-09,Canada,2016A000011124,Window coverings,2002=100,17,units,0,v41691094,2.123,167.9,,,,1
+2026-09,Canada,2016A000011124,Bedding and other household textiles,2002=100,17,units,0,v41691095,2.124,123.7,,,,1
+2026-09,Canada,2016A000011124,Household equipment,2002=100,17,units,0,v41691097,2.126,99.9,,,,1
+2026-09,Canada,2016A000011124,Household appliances,2002=100,17,units,0,v41691098,2.127,96.5,,,,1
+2026-09,Canada,2016A000011124,Cooking appliances,2002=100,17,units,0,v41691099,2.128,96.6,,,,1
+2026-09,Canada,2016A000011124,Refrigerators and freezers,2002=100,17,units,0,v41691100,2.129,99.1,,,,1
+2026-09,Canada,2016A000011124,Laundry and dishwashing appliances,2002=100,17,units,0,v41691101,2.130,94.3,,,,1
+2026-09,Canada,2016A000011124,Other household appliances,2002=100,17,units,0,v41691102,2.131,97.5,,,,1
+2026-09,Canada,2016A000011124,"Non-electric kitchen utensils, tableware and cookware",2002=100,17,units,0,v41691103,2.132,84.2,,,,1
+2026-09,Canada,2016A000011124,Tools and other household equipment,2002=100,17,units,0,v41691104,2.135,106.0,,,,1
+2026-09,Canada,2016A000011124,"Household tools (including lawn, garden and snow removal equipment)",2002=100,17,units,0,v41691105,2.136,105.9,,,,1
+2026-09,Canada,2016A000011124,Other household equipment,2002=100,17,units,0,v41691106,2.137,106.1,,,,1
+2026-09,Canada,2016A000011124,Services related to household furnishings and equipment,2002=100,17,units,0,v41691107,2.138,250.4,,,,1
+2026-09,Canada,2016A000011124,Clothing and footwear,2002=100,17,units,0,v41691108,2.139,95.1,,,,1
+2026-09,Canada,2016A000011124,Clothing,2002=100,17,units,0,v41691109,2.140,78.3,,,,1
+2026-09,Canada,2016A000011124,Women's clothing,2002=100,17,units,0,v41691110,2.141,75.9,,,,1
+2026-09,Canada,2016A000011124,Men's clothing,2002=100,17,units,0,v41691111,2.148,85.9,,,,1
+2026-09,Canada,2016A000011124,Children's clothing,2002=100,17,units,0,v41691112,2.155,70.2,,,,1
+2026-09,Canada,2016A000011124,Footwear,2002=100,17,units,0,v41691113,2.161,89.1,,,,1
+2026-09,Canada,2016A000011124,Women's footwear (excluding athletic),2002=100,17,units,0,v41691114,2.162,84.1,,,,1
+2026-09,Canada,2016A000011124,Men's footwear (excluding athletic),2002=100,17,units,0,v41691115,2.163,95.6,,,,1
+2026-09,Canada,2016A000011124,Children's footwear (excluding athletic),2002=100,17,units,0,v41691116,2.164,89.4,,,,1
+2026-09,Canada,2016A000011124,Athletic footwear,2002=100,17,units,0,v41691117,2.165,88.4,,,,1
+2026-09,Canada,2016A000011124,"Clothing accessories, watches and jewellery",2002=100,17,units,0,v41691118,2.166,186.7,,,,1
+2026-09,Canada,2016A000011124,Clothing accessories (2013=100),2013=100,25,units,0,v1277786752,2.369,115.0,,,,1
+2026-09,Canada,2016A000011124,Watches,2002=100,17,units,0,v41691120,2.168,129.7,,,,1
+2026-09,Canada,2016A000011124,Jewellery,2002=100,17,units,0,v41691121,2.169,344.8,,,,1
+2026-09,Canada,2016A000011124,"Clothing material, notions and services",2002=100,17,units,0,v41691123,2.171,186.6,,,,1
+2026-09,Canada,2016A000011124,Transportation,2002=100,17,units,0,v41691128,2.176,186.3,,,,1
+2026-09,Canada,2016A000011124,Private transportation,2002=100,17,units,0,v41691129,2.177,184.6,,,,1
+2026-09,Canada,2016A000011124,"Purchase, leasing and rental of passenger vehicles",2002=100,17,units,0,v41691130,2.178,131.3,,,,1
+2026-09,Canada,2016A000011124,Purchase and leasing of passenger vehicles,2002=100,17,units,0,v41691131,2.179,131.0,,,,1
+2026-09,Canada,2016A000011124,Purchase of passenger vehicles,2002=100,17,units,0,v41691132,2.180,132.0,,,,1
+2026-09,Canada,2016A000011124,Purchase of new passenger vehicles (202204=100),202204=100,427,units,0,v1374568106,2.371,111.9,,,,1
+2026-09,Canada,2016A000011124,Purchase of used passenger vehicles (202204=100),202204=100,427,units,0,v1374568107,2.372,104.5,,,,1
+2026-09,Canada,2016A000011124,Leasing of passenger vehicles,2002=100,17,units,0,v41691133,2.181,126.9,,,,1
+2026-09,Canada,2016A000011124,Rental of passenger vehicles,2002=100,17,units,0,v41691134,2.182,155.6,,,,1
+2026-09,Canada,2016A000011124,Operation of passenger vehicles,2002=100,17,units,0,v41691135,2.183,238.0,,,,1
+2026-09,Canada,2016A000011124,Gasoline,2002=100,17,units,0,v41691136,2.184,267.6,,,,1
+2026-09,Canada,2016A000011124,"Passenger vehicle parts, maintenance and repairs",2002=100,17,units,0,v41691137,2.185,191.7,,,,1
+2026-09,Canada,2016A000011124,"Passenger vehicle parts, accessories and supplies",2002=100,17,units,0,v41691138,2.186,173.2,,,,1
+2026-09,Canada,2016A000011124,Passenger vehicle maintenance and repair services,2002=100,17,units,0,v41691139,2.187,202.5,,,,1
+2026-09,Canada,2016A000011124,Other passenger vehicle operating expenses,2002=100,17,units,0,v41691140,2.188,229.3,,,,1
+2026-09,Canada,2016A000011124,Passenger vehicle insurance premiums,2002=100,17,units,0,v41691141,2.189,244.4,,,,1
+2026-09,Canada,2016A000011124,Passenger vehicle registration fees,2002=100,17,units,0,v41691142,2.190,103.4,,,,1
+2026-09,Canada,2016A000011124,Drivers' licences,2002=100,17,units,0,v41691143,2.191,183.5,,,,1
+2026-09,Canada,2016A000011124,Parking fees,2002=100,17,units,0,v41691144,2.192,235.6,,,,1
+2026-09,Canada,2016A000011124,All other passenger vehicle operating expenses,2002=100,17,units,0,v41691145,2.193,195.4,,,,1
+2026-09,Canada,2016A000011124,Public transportation,2002=100,17,units,0,v41691146,2.194,189.5,,,,1
+2026-09,Canada,2016A000011124,Local and commuter transportation,2002=100,17,units,0,v41691147,2.195,178.0,,,,1
+2026-09,Canada,2016A000011124,City bus and subway transportation,2002=100,17,units,0,v41691148,2.196,184.6,,,,1
+2026-09,Canada,2016A000011124,Taxi and other local and commuter transportation services,2002=100,17,units,0,v41691149,2.197,158.8,,,,1
+2026-09,Canada,2016A000011124,Inter-city transportation,2002=100,17,units,0,v41691150,2.198,192.5,,,,1
+2026-09,Canada,2016A000011124,Air transportation,2002=100,17,units,0,v41691151,2.199,189.9,,,,1
+2026-09,Canada,2016A000011124,"Rail, highway bus and other inter-city transportation",2002=100,17,units,0,v41691152,2.200,167.7,,,,1
+2026-09,Canada,2016A000011124,Health and personal care,2002=100,17,units,0,v41691153,2.201,158.5,,,,1
+2026-09,Canada,2016A000011124,Health care,2002=100,17,units,0,v41691154,2.202,156.8,,,,1
+2026-09,Canada,2016A000011124,Health care goods,2002=100,17,units,0,v41713463,2.310,118.3,,,,1
+2026-09,Canada,2016A000011124,Medicinal and pharmaceutical products,2002=100,17,units,0,v41691156,2.204,112.1,,,,1
+2026-09,Canada,2016A000011124,Prescribed medicines (excluding medicinal cannabis),2002=100,17,units,0,v41691157,2.205,93.7,,,,1
+2026-09,Canada,2016A000011124,Medicinal cannabis (201812=100),201812=100,388,units,0,v1043024071,2.366,82.8,,,,1
+2026-09,Canada,2016A000011124,Non-prescribed medicines,2002=100,17,units,0,v41691158,2.206,149.2,,,,1
+2026-09,Canada,2016A000011124,Eye care goods,2002=100,17,units,0,v41713381,2.209,146.0,,,,1
+2026-09,Canada,2016A000011124,Other health care goods,2002=100,17,units,0,v41691159,2.207,119.9,,,,1
+2026-09,Canada,2016A000011124,Health care services,2002=100,17,units,0,v41713464,2.311,228.2,,,,1
+2026-09,Canada,2016A000011124,Eye care services (200704=100),200704=100,19,units,0,v41693244,2.301,167.2,,,,1
+2026-09,Canada,2016A000011124,Dental care services,2002=100,17,units,0,v41691161,2.210,225.0,,,,1
+2026-09,Canada,2016A000011124,Other health care services,2002=100,17,units,0,v41691162,2.211,245.4,,,,1
+2026-09,Canada,2016A000011124,Personal care,2002=100,17,units,0,v41691163,2.212,160.6,,,,1
+2026-09,Canada,2016A000011124,Personal care supplies and equipment,2002=100,17,units,0,v41691164,2.213,130.4,,,,1
+2026-09,Canada,2016A000011124,Personal soap,2002=100,17,units,0,v41691165,2.214,126.5,,,,1
+2026-09,Canada,2016A000011124,Toiletry items and cosmetics,2002=100,17,units,0,v41691166,2.215,127.8,,,,1
+2026-09,Canada,2016A000011124,Oral-hygiene products,2002=100,17,units,0,v41691167,2.216,158.7,,,,1
+2026-09,Canada,2016A000011124,Other personal care supplies and equipment,2002=100,17,units,0,v41691168,2.217,125.3,,,,1
+2026-09,Canada,2016A000011124,Personal care services,2002=100,17,units,0,v41691169,2.218,208.2,,,,1
+2026-09,Canada,2016A000011124,"Recreation, education and reading",2002=100,17,units,0,v41691170,2.219,135.6,,,,1
+2026-09,Canada,2016A000011124,Recreation,2002=100,17,units,0,v41691171,2.220,119.4,,,,1
+2026-09,Canada,2016A000011124,Recreational equipment and services (excluding recreational vehicles),2002=100,17,units,0,v41691172,2.221,49.7,,,,1
+2026-09,Canada,2016A000011124,Sporting and exercise equipment,2002=100,17,units,0,v41691173,2.222,93.2,,,,1
+2026-09,Canada,2016A000011124,"Toys, games (excluding video games) and hobby supplies",2002=100,17,units,0,v41713382,2.304,99.5,,,,1
+2026-09,Canada,2016A000011124,Digital computing equipment and devices,2002=100,17,units,0,v41691175,2.224,12.4,,,,1
+2026-09,Canada,2016A000011124,"Computer equipment, software and supplies (201104=100)",201104=100,22,units,0,v53996597,2.314,57.8,,,,1
+2026-09,Canada,2016A000011124,Multipurpose digital devices (201104=100),201104=100,22,units,0,v53996598,2.315,35.2,,,,1
+2026-09,Canada,2016A000011124,Photographic equipment and supplies,2002=100,17,units,0,v41713384,2.305,29.4,,,,1
+2026-09,Canada,2016A000011124,Other recreational equipment,2002=100,17,units,0,v41691178,2.227,79.2,,,,1
+2026-09,Canada,2016A000011124,Recreational services,2002=100,17,units,0,v41713386,2.306,157.5,,,,1
+2026-09,Canada,2016A000011124,Purchase and operation of recreational vehicles,2002=100,17,units,0,v41691179,2.228,181.2,,,,1
+2026-09,Canada,2016A000011124,Purchase of recreational vehicles and outboard motors,2002=100,17,units,0,v41691180,2.229,151.3,,,,1
+2026-09,Canada,2016A000011124,Operation of recreational vehicles,2002=100,17,units,0,v41691181,2.230,234.1,,,,1
+2026-09,Canada,2016A000011124,"Fuel, parts and accessories for recreational vehicles",2002=100,17,units,0,v41691182,2.231,259.2,,,,1
+2026-09,Canada,2016A000011124,"Insurance, licences and other services for recreational vehicles",2002=100,17,units,0,v41691183,2.232,217.4,,,,1
+2026-09,Canada,2016A000011124,"Home entertainment equipment, parts and services",2002=100,17,units,0,v41691184,2.233,42.7,,,,1
+2026-09,Canada,2016A000011124,Audio equipment,2002=100,17,units,0,v41691185,2.234,42.7,,,,1
+2026-09,Canada,2016A000011124,Video equipment,2002=100,17,units,0,v41691186,2.236,16.9,,,,1
+2026-09,Canada,2016A000011124,Purchase of digital media,2002=100,17,units,0,v41713390,2.308,93.5,,,,1
+2026-09,Canada,2016A000011124,Travel services,2002=100,17,units,0,v41691190,2.240,124.7,,,,1
+2026-09,Canada,2016A000011124,Traveller accommodation,2002=100,17,units,0,v41691191,2.241,117.1,,,,1
+2026-09,Canada,2016A000011124,Travel tours,2002=100,17,units,0,v41691192,2.242,125.9,,,,1
+2026-09,Canada,2016A000011124,Other cultural and recreational services,2002=100,17,units,0,v41691193,2.243,241.0,,,,1
+2026-09,Canada,2016A000011124,Spectator entertainment (excluding video and audio subscription services),2002=100,17,units,0,v41691194,2.244,187.0,,,,1
+2026-09,Canada,2016A000011124,Video and audio subscription services,2002=100,17,units,0,v41691195,2.245,286.4,,,,1
+2026-09,Canada,2016A000011124,Use of recreational facilities and services,2002=100,17,units,0,v41691196,2.246,207.9,,,,1
+2026-09,Canada,2016A000011124,Education and reading,2002=100,17,units,0,v41691197,2.247,191.1,,,,1
+2026-09,Canada,2016A000011124,Education,2002=100,17,units,0,v41691198,2.248,194.3,,,,1
+2026-09,Canada,2016A000011124,Tuition fees,2002=100,17,units,0,v41691199,2.249,202.6,,,,1
+2026-09,Canada,2016A000011124,School textbooks and supplies,2002=100,17,units,0,v41691200,2.250,166.2,,,,1
+2026-09,Canada,2016A000011124,"Other lessons, courses and education services",2002=100,17,units,0,v41691201,2.251,177.3,,,,1
+2026-09,Canada,2016A000011124,Reading material (excluding textbooks),2002=100,17,units,0,v41691202,2.252,194.5,,,,1
+2026-09,Canada,2016A000011124,Newspapers,2002=100,17,units,0,v41691203,2.253,303.3,,,,1
+2026-09,Canada,2016A000011124,Magazines and periodicals,2002=100,17,units,0,v41691204,2.254,199.2,,,,1
+2026-09,Canada,2016A000011124,Books and reading material (excluding textbooks),2002=100,17,units,0,v41691205,2.255,138.8,,,,1
+2026-09,Canada,2016A000011124,"Alcoholic beverages, tobacco products and recreational cannabis",2002=100,17,units,0,v41691206,2.256,204.1,,,,1
+2026-09,Canada,2016A000011124,Alcoholic beverages,2002=100,17,units,0,v41691207,2.257,157.7,,,,1
+2026-09,Canada,2016A000011124,Alcoholic beverages served in licensed establishments,2002=100,17,units,0,v41691208,2.258,180.2,,,,1
+2026-09,Canada,2016A000011124,Beer served in licensed establishments,2002=100,17,units,0,v41691209,2.259,196.1,,,,1
+2026-09,Canada,2016A000011124,Wine served in licensed establishments,2002=100,17,units,0,v41691210,2.260,146.6,,,,1
+2026-09,Canada,2016A000011124,Liquor served in licensed establishments,2002=100,17,units,0,v41691211,2.261,178.4,,,,1
+2026-09,Canada,2016A000011124,Alcoholic beverages purchased from stores,2002=100,17,units,0,v41691212,2.262,148.6,,,,1
+2026-09,Canada,2016A000011124,Beer purchased from stores,2002=100,17,units,0,v41691213,2.263,166.7,,,,1
+2026-09,Canada,2016A000011124,Wine purchased from stores,2002=100,17,units,0,v41691214,2.264,132.8,,,,1
+2026-09,Canada,2016A000011124,Liquor purchased from stores,2002=100,17,units,0,v41691215,2.265,138.5,,,,1
+2026-09,Canada,2016A000011124,Tobacco products and smokers' supplies,2002=100,17,units,0,v41691216,2.266,329.2,,,,1
+2026-09,Canada,2016A000011124,Cigarettes,2002=100,17,units,0,v41691217,2.267,329.9,,,,1
+2026-09,Canada,2016A000011124,Other tobacco products and smokers' supplies,2002=100,17,units,0,v41691218,2.268,323.0,,,,1
+2026-09,Canada,2016A000011124,Recreational cannabis (201812=100),201812=100,388,units,0,v1043024072,2.367,69.4,,,,1
+2026-09,Canada,2016A000011124,All-items excluding food,2002=100,17,units,0,v41691232,2.284,164.2,,,,1
+2026-09,Canada,2016A000011124,All-items excluding food and energy,2002=100,17,units,0,v41691233,2.285,158.6,,,,1
+2026-09,Canada,2016A000011124,All-items excluding mortgage interest cost,2002=100,17,units,0,v41691240,2.289,169.9,,,,1
+2026-09,Canada,2016A000011124,"All-items excluding alcoholic beverages, tobacco products and smokers' supplies and recreational cannabis",2002=100,17,units,0,v41691241,2.290,168.9,,,,1
+2026-09,Canada,2016A000011124,All-items excluding shelter,2002=100,17,units,0,v41691234,2.293,162.1,,,,1
+2026-09,Canada,2016A000011124,All-items excluding energy,2002=100,17,units,0,v41691238,2.287,165.8,,,,1
+2026-09,Canada,2016A000011124,All-items excluding gasoline,2002=100,17,units,0,v41693245,2.302,166.8,,,,1
+2026-09,Canada,2016A000011124,Private transportation excluding gasoline,2002=100,17,units,0,v43972163,2.312,164.4,,,,1
+2026-09,Canada,2016A000011124,Food and energy,2002=100,17,units,0,v41691237,2.286,209.5,,,,1
+2026-09,Canada,2016A000011124,Fresh fruit and vegetables,2002=100,17,units,0,v41691235,2.294,179.3,,,,1
+2026-09,Canada,2016A000011124,Energy,2002=100,17,units,0,v41691239,2.288,229.7,,,,1
+2026-09,Canada,2016A000011124,Goods,2002=100,17,units,0,v41691222,2.274,151.4,,,,1
+2026-09,Canada,2016A000011124,Durable goods,2002=100,17,units,0,v41691223,2.275,107.6,,,,1
+2026-09,Canada,2016A000011124,Semi-durable goods,2002=100,17,units,0,v41691224,2.276,103.6,,,,1
+2026-09,Canada,2016A000011124,Non-durable goods,2002=100,17,units,0,v41691225,2.277,194.9,,,,1
+2026-09,Canada,2016A000011124,Goods excluding food purchased from stores and energy,2002=100,17,units,0,v41691229,2.281,119.5,,,,1
+2026-09,Canada,2016A000011124,Services,2002=100,17,units,0,v41691230,2.282,188.2,,,,1
+2026-09,Canada,2016A000011124,Digital economy services (201812=100),201812=100,388,units,0,v1281518073,2.370,83.8,,,,1
+2026-09,Nova Scotia,2016A000212,All-items,2002=100,17,units,0,v41691513,7.2,178.1,,,,1
+2026-09,Nova Scotia,2016A000212,Food,2002=100,17,units,0,v41691514,7.3,207.6,,,,1
+2026-09,Nova Scotia,2016A000212,Food purchased from stores,2002=100,17,units,0,v41691515,7.4,206.4,,,,1
+2026-09,Nova Scotia,2016A000212,Meat,2002=100,17,units,0,v41691516,7.5,229.1,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh or frozen meat (excluding poultry),2002=100,17,units,0,v41691517,7.6,263.3,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh or frozen beef,2002=100,17,units,0,v41691518,7.7,315.6,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh or frozen pork,2002=100,17,units,0,v41691519,7.8,181.1,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh or frozen poultry,2002=100,17,units,0,v41691520,7.10,188.1,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh or frozen chicken,2002=100,17,units,0,v41691521,7.11,194.7,,,,1
+2026-09,Nova Scotia,2016A000212,Processed meat,2002=100,17,units,0,v41691522,7.13,223.5,,,,1
+2026-09,Nova Scotia,2016A000212,"Fish, seafood and other marine products",2002=100,17,units,0,v41691523,7.16,172.9,,,,1
+2026-09,Nova Scotia,2016A000212,Fish,2002=100,17,units,0,v41691524,7.17,199.2,,,,1
+2026-09,Nova Scotia,2016A000212,Dairy products and eggs,2002=100,17,units,0,v41691525,7.21,185.8,,,,1
+2026-09,Nova Scotia,2016A000212,Dairy products,2002=100,17,units,0,v41691526,7.22,181.5,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh milk,2002=100,17,units,0,v41691527,7.23,159.5,,,,1
+2026-09,Nova Scotia,2016A000212,Butter,2002=100,17,units,0,v41691528,7.24,227.7,,,,1
+2026-09,Nova Scotia,2016A000212,Cheese,2002=100,17,units,0,v41691529,7.25,160.3,,,,1
+2026-09,Nova Scotia,2016A000212,Eggs,2002=100,17,units,0,v41691530,7.28,236.0,,,,1
+2026-09,Nova Scotia,2016A000212,Bakery and cereal products (excluding baby food),2002=100,17,units,0,v41691531,7.29,224.2,,,,1
+2026-09,Nova Scotia,2016A000212,Bakery products,2002=100,17,units,0,v41691532,7.30,242.8,,,,1
+2026-09,Nova Scotia,2016A000212,Cereal products (excluding baby food),2002=100,17,units,0,v41691533,7.34,194.6,,,,1
+2026-09,Nova Scotia,2016A000212,"Fruit, fruit preparations and nuts",2002=100,17,units,0,v41691534,7.39,180.7,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh fruit,2002=100,17,units,0,v41691535,7.40,155.3,,,,1
+2026-09,Nova Scotia,2016A000212,Preserved fruit and fruit preparations,2002=100,17,units,0,v41691536,7.45,200.1,,,,1
+2026-09,Nova Scotia,2016A000212,Vegetables and vegetable preparations,2002=100,17,units,0,v41691537,7.49,185.2,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh vegetables,2002=100,17,units,0,v41691538,7.50,170.5,,,,1
+2026-09,Nova Scotia,2016A000212,Preserved vegetables and vegetable preparations,2002=100,17,units,0,v41691539,7.55,229.1,,,,1
+2026-09,Nova Scotia,2016A000212,Other food products and non-alcoholic beverages,2002=100,17,units,0,v41691540,7.58,213.4,,,,1
+2026-09,Nova Scotia,2016A000212,Sugar and confectionery,2002=100,17,units,0,v41691541,7.59,236.8,,,,1
+2026-09,Nova Scotia,2016A000212,Edible fats and oils,2002=100,17,units,0,v41691542,7.62,223.4,,,,1
+2026-09,Nova Scotia,2016A000212,Coffee and tea,2002=100,17,units,0,v41691543,7.65,201.8,,,,1
+2026-09,Nova Scotia,2016A000212,Non-alcoholic beverages,2002=100,17,units,0,v41691544,7.74,201.0,,,,1
+2026-09,Nova Scotia,2016A000212,Food purchased from restaurants,2002=100,17,units,0,v41691545,7.75,208.9,,,,1
+2026-09,Nova Scotia,2016A000212,Shelter,2002=100,17,units,0,v41691546,7.79,212.6,,,,1
+2026-09,Nova Scotia,2016A000212,Rented accommodation,2002=100,17,units,0,v41691547,7.80,181.6,,,,1
+2026-09,Nova Scotia,2016A000212,Rent,2002=100,17,units,0,v41691548,7.81,182.9,,,,1
+2026-09,Nova Scotia,2016A000212,Owned accommodation,2002=100,17,units,0,v41691549,7.84,190.4,,,,1
+2026-09,Nova Scotia,2016A000212,Homeowners' replacement cost,2002=100,17,units,0,v41691550,7.86,198.1,,,,1
+2026-09,Nova Scotia,2016A000212,Property taxes and other special charges,2002=100,17,units,0,v41691551,7.87,204.3,,,,1
+2026-09,Nova Scotia,2016A000212,Homeowners' home and mortgage insurance,2002=100,17,units,0,v41691552,7.88,446.7,,,,1
+2026-09,Nova Scotia,2016A000212,Homeowners' maintenance and repairs,2002=100,17,units,0,v41691553,7.89,165.2,,,,1
+2026-09,Nova Scotia,2016A000212,"Water, fuel and electricity",2002=100,17,units,0,v41691554,7.91,298.7,,,,1
+2026-09,Nova Scotia,2016A000212,Electricity,2002=100,17,units,0,v41691555,7.92,203.7,,,,1
+2026-09,Nova Scotia,2016A000212,Water,2002=100,17,units,0,v41691556,7.93,292.7,,,,1
+2026-09,Nova Scotia,2016A000212,Fuel oil and other fuels,2002=100,17,units,0,v41691557,7.95,448.7,,,,1
+2026-09,Nova Scotia,2016A000212,"Household operations, furnishings and equipment",2002=100,17,units,0,v41691558,7.96,131.4,,,,1
+2026-09,Nova Scotia,2016A000212,Household operations,2002=100,17,units,0,v41691559,7.97,146.3,,,,1
+2026-09,Nova Scotia,2016A000212,Communications,2002=100,17,units,0,v41691560,7.98,94.3,,,,1
+2026-09,Nova Scotia,2016A000212,Telephone services,2002=100,17,units,0,v41691561,7.99,80.5,,,,1
+2026-09,Nova Scotia,2016A000212,Cellular services (202304=100),202304=100,438,units,0,v1563916457,7.381,73.0,,,,1
+2026-09,Nova Scotia,2016A000212,Internet access services (200212=100),200212=100,16,units,0,v41693219,7.297,108.7,,,,1
+2026-09,Nova Scotia,2016A000212,Child care and housekeeping services,2002=100,17,units,0,v41691562,7.101,133.0,,,,1
+2026-09,Nova Scotia,2016A000212,Household cleaning products,2002=100,17,units,0,v41691563,7.104,167.0,,,,1
+2026-09,Nova Scotia,2016A000212,"Paper, plastic and aluminum foil supplies",2002=100,17,units,0,v41691564,7.107,201.8,,,,1
+2026-09,Nova Scotia,2016A000212,Other household goods and services,2002=100,17,units,0,v41691565,7.110,190.4,,,,1
+2026-09,Nova Scotia,2016A000212,Financial services (200212=100),200212=100,16,units,0,v41693232,7.298,176.3,,,,1
+2026-09,Nova Scotia,2016A000212,Household furnishings and equipment,2002=100,17,units,0,v41691566,7.116,101.1,,,,1
+2026-09,Nova Scotia,2016A000212,Furniture and household textiles,2002=100,17,units,0,v41691567,7.117,97.1,,,,1
+2026-09,Nova Scotia,2016A000212,Furniture,2002=100,17,units,0,v41691568,7.118,86.0,,,,1
+2026-09,Nova Scotia,2016A000212,Household textiles,2002=100,17,units,0,v41691569,7.122,150.6,,,,1
+2026-09,Nova Scotia,2016A000212,Household equipment,2002=100,17,units,0,v41691570,7.126,96.3,,,,1
+2026-09,Nova Scotia,2016A000212,Household appliances,2002=100,17,units,0,v41691571,7.127,96.6,,,,1
+2026-09,Nova Scotia,2016A000212,"Non-electric kitchen utensils, tableware and cookware",2002=100,17,units,0,v41691572,7.132,78.5,,,,1
+2026-09,Nova Scotia,2016A000212,Clothing and footwear,2002=100,17,units,0,v41691573,7.139,103.6,,,,1
+2026-09,Nova Scotia,2016A000212,Clothing,2002=100,17,units,0,v41691574,7.140,88.2,,,,1
+2026-09,Nova Scotia,2016A000212,Women's clothing,2002=100,17,units,0,v41691575,7.141,92.6,,,,1
+2026-09,Nova Scotia,2016A000212,Men's clothing,2002=100,17,units,0,v41691576,7.148,94.2,,,,1
+2026-09,Nova Scotia,2016A000212,Children's clothing,2002=100,17,units,0,v41691577,7.155,64.4,,,,1
+2026-09,Nova Scotia,2016A000212,Footwear,2002=100,17,units,0,v41691578,7.161,90.7,,,,1
+2026-09,Nova Scotia,2016A000212,"Clothing accessories, watches and jewellery",2002=100,17,units,0,v41691579,7.166,191.5,,,,1
+2026-09,Nova Scotia,2016A000212,"Clothing material, notions and services",2002=100,17,units,0,v41691580,7.171,187.5,,,,1
+2026-09,Nova Scotia,2016A000212,Transportation,2002=100,17,units,0,v41691581,7.176,184.8,,,,1
+2026-09,Nova Scotia,2016A000212,Private transportation,2002=100,17,units,0,v41691582,7.177,184.0,,,,1
+2026-09,Nova Scotia,2016A000212,"Purchase, leasing and rental of passenger vehicles",2002=100,17,units,0,v41691583,7.178,133.5,,,,1
+2026-09,Nova Scotia,2016A000212,Purchase and leasing of passenger vehicles,2002=100,17,units,0,v41691584,7.179,132.2,,,,1
+2026-09,Nova Scotia,2016A000212,Purchase of passenger vehicles,2002=100,17,units,0,v41691585,7.180,133.8,,,,1
+2026-09,Nova Scotia,2016A000212,Operation of passenger vehicles,2002=100,17,units,0,v41691586,7.183,229.1,,,,1
+2026-09,Nova Scotia,2016A000212,Gasoline,2002=100,17,units,0,v41691587,7.184,260.5,,,,1
+2026-09,Nova Scotia,2016A000212,"Passenger vehicle parts, maintenance and repairs",2002=100,17,units,0,v41691588,7.185,181.4,,,,1
+2026-09,Nova Scotia,2016A000212,Other passenger vehicle operating expenses,2002=100,17,units,0,v41691589,7.188,207.6,,,,1
+2026-09,Nova Scotia,2016A000212,Passenger vehicle insurance premiums,2002=100,17,units,0,v41691590,7.189,212.6,,,,1
+2026-09,Nova Scotia,2016A000212,Passenger vehicle registration fees,2002=100,17,units,0,v41691591,7.190,138.8,,,,1
+2026-09,Nova Scotia,2016A000212,Public transportation,2002=100,17,units,0,v41691592,7.194,194.8,,,,1
+2026-09,Nova Scotia,2016A000212,Local and commuter transportation,2002=100,17,units,0,v41691593,7.195,191.8,,,,1
+2026-09,Nova Scotia,2016A000212,City bus and subway transportation,2002=100,17,units,0,v41691594,7.196,155.0,,,,1
+2026-09,Nova Scotia,2016A000212,Taxi and other local and commuter transportation services,2002=100,17,units,0,v41691595,7.197,210.8,,,,1
+2026-09,Nova Scotia,2016A000212,Inter-city transportation,2002=100,17,units,0,v41691596,7.198,194.2,,,,1
+2026-09,Nova Scotia,2016A000212,Health and personal care,2002=100,17,units,0,v41691597,7.201,155.1,,,,1
+2026-09,Nova Scotia,2016A000212,Health care,2002=100,17,units,0,v41691598,7.202,145.8,,,,1
+2026-09,Nova Scotia,2016A000212,Health care goods,2002=100,17,units,0,v41713469,7.310,118.6,,,,1
+2026-09,Nova Scotia,2016A000212,Medicinal and pharmaceutical products,2002=100,17,units,0,v41691600,7.204,108.7,,,,1
+2026-09,Nova Scotia,2016A000212,Prescribed medicines (excluding medicinal cannabis),2002=100,17,units,0,v41691601,7.205,90.4,,,,1
+2026-09,Nova Scotia,2016A000212,Non-prescribed medicines,2002=100,17,units,0,v41691602,7.206,160.8,,,,1
+2026-09,Nova Scotia,2016A000212,Health care services,2002=100,17,units,0,v41713470,7.311,206.5,,,,1
+2026-09,Nova Scotia,2016A000212,Personal care,2002=100,17,units,0,v41691604,7.212,167.7,,,,1
+2026-09,Nova Scotia,2016A000212,Personal care supplies and equipment,2002=100,17,units,0,v41691605,7.213,144.8,,,,1
+2026-09,Nova Scotia,2016A000212,Personal care services,2002=100,17,units,0,v41691606,7.218,211.3,,,,1
+2026-09,Nova Scotia,2016A000212,"Recreation, education and reading",2002=100,17,units,0,v41691607,7.219,149.3,,,,1
+2026-09,Nova Scotia,2016A000212,Recreation,2002=100,17,units,0,v41691608,7.220,133.6,,,,1
+2026-09,Nova Scotia,2016A000212,Recreational equipment and services (excluding recreational vehicles),2002=100,17,units,0,v41691609,7.221,59.8,,,,1
+2026-09,Nova Scotia,2016A000212,Purchase and operation of recreational vehicles,2002=100,17,units,0,v41691610,7.228,183.7,,,,1
+2026-09,Nova Scotia,2016A000212,"Home entertainment equipment, parts and services",2002=100,17,units,0,v41691611,7.233,39.6,,,,1
+2026-09,Nova Scotia,2016A000212,Travel services,2002=100,17,units,0,v41691612,7.240,178.7,,,,1
+2026-09,Nova Scotia,2016A000212,Traveller accommodation,2002=100,17,units,0,v41691613,7.241,161.0,,,,1
+2026-09,Nova Scotia,2016A000212,Other cultural and recreational services,2002=100,17,units,0,v41691614,7.243,225.6,,,,1
+2026-09,Nova Scotia,2016A000212,Video and audio subscription services,2002=100,17,units,0,v41691615,7.245,249.2,,,,1
+2026-09,Nova Scotia,2016A000212,Education and reading,2002=100,17,units,0,v41691616,7.247,199.3,,,,1
+2026-09,Nova Scotia,2016A000212,Education,2002=100,17,units,0,v41691617,7.248,194.8,,,,1
+2026-09,Nova Scotia,2016A000212,Tuition fees,2002=100,17,units,0,v41691618,7.249,193.2,,,,1
+2026-09,Nova Scotia,2016A000212,Reading material (excluding textbooks),2002=100,17,units,0,v41691619,7.252,229.0,,,,1
+2026-09,Nova Scotia,2016A000212,"Alcoholic beverages, tobacco products and recreational cannabis",2002=100,17,units,0,v41691620,7.256,241.3,,,,1
+2026-09,Nova Scotia,2016A000212,Alcoholic beverages,2002=100,17,units,0,v41691621,7.257,170.2,,,,1
+2026-09,Nova Scotia,2016A000212,Alcoholic beverages served in licensed establishments,2002=100,17,units,0,v41691622,7.258,180.7,,,,1
+2026-09,Nova Scotia,2016A000212,Alcoholic beverages purchased from stores,2002=100,17,units,0,v41691623,7.262,167.7,,,,1
+2026-09,Nova Scotia,2016A000212,Beer purchased from stores,2002=100,17,units,0,v41691624,7.263,194.9,,,,1
+2026-09,Nova Scotia,2016A000212,Wine purchased from stores,2002=100,17,units,0,v41691625,7.264,145.7,,,,1
+2026-09,Nova Scotia,2016A000212,Liquor purchased from stores,2002=100,17,units,0,v41691626,7.265,145.7,,,,1
+2026-09,Nova Scotia,2016A000212,Tobacco products and smokers' supplies,2002=100,17,units,0,v41691627,7.266,340.3,,,,1
+2026-09,Nova Scotia,2016A000212,Cigarettes,2002=100,17,units,0,v41691628,7.267,342.6,,,,1
+2026-09,Nova Scotia,2016A000212,Recreational cannabis (201812=100),201812=100,388,units,0,v1043024075,7.367,76.6,,,,1
+2026-09,Nova Scotia,2016A000212,All-items excluding food,2002=100,17,units,0,v41691637,7.284,172.3,,,,1
+2026-09,Nova Scotia,2016A000212,All-items excluding food and energy,2002=100,17,units,0,v41691638,7.285,159.5,,,,1
+2026-09,Nova Scotia,2016A000212,"All-items excluding alcoholic beverages, tobacco products and smokers' supplies and recreational cannabis",2002=100,17,units,0,v41691645,7.290,176.0,,,,1
+2026-09,Nova Scotia,2016A000212,All-items excluding shelter,2002=100,17,units,0,v41691639,7.293,167.4,,,,1
+2026-09,Nova Scotia,2016A000212,All-items excluding energy,2002=100,17,units,0,v41691643,7.287,168.0,,,,1
+2026-09,Nova Scotia,2016A000212,All-items excluding gasoline,2002=100,17,units,0,v41693251,7.302,174.3,,,,1
+2026-09,Nova Scotia,2016A000212,Private transportation excluding gasoline,2002=100,17,units,0,v43972166,7.312,157.0,,,,1
+2026-09,Nova Scotia,2016A000212,Food and energy,2002=100,17,units,0,v41691642,7.286,233.6,,,,1
+2026-09,Nova Scotia,2016A000212,Fresh fruit and vegetables,2002=100,17,units,0,v41691640,7.294,164.5,,,,1
+2026-09,Nova Scotia,2016A000212,Energy,2002=100,17,units,0,v41691644,7.288,276.2,,,,1
+2026-09,Nova Scotia,2016A000212,Goods,2002=100,17,units,0,v41691632,7.274,170.6,,,,1
+2026-09,Nova Scotia,2016A000212,Durable goods,2002=100,17,units,0,v41691633,7.275,110.8,,,,1
+2026-09,Nova Scotia,2016A000212,Semi-durable goods,2002=100,17,units,0,v41691634,7.276,111.8,,,,1
+2026-09,Nova Scotia,2016A000212,Non-durable goods,2002=100,17,units,0,v41691635,7.277,220.6,,,,1
+2026-09,Nova Scotia,2016A000212,Services,2002=100,17,units,0,v41691636,7.282,186.2,,,,1
+2026-09,"Halifax, Nova Scotia",2011S0503205,All-items,2002=100,17,units,0,v41692858,8.2,176.5,,,,1
+2026-09,"Halifax, Nova Scotia",2011S0503205,Shelter,2002=100,17,units,0,v41692859,8.79,206.0,,,,1
+2026-09,"Halifax, Nova Scotia",2011S0503205,Rented accommodation,2002=100,17,units,0,v41692860,8.80,186.0,,,,1
+2026-09,"Halifax, Nova Scotia",2011S0503205,Owned accommodation,2002=100,17,units,0,v41692861,8.84,188.3,,,,1
+2026-09,"Halifax, Nova Scotia",2011S0503205,"Water, fuel and electricity",2002=100,17,units,0,v41692862,8.91,286.3,,,,1
