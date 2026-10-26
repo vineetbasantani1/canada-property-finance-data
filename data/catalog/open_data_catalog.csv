@@ -18,7 +18,7 @@ federal,housing,"Canada Mortgage and Housing Corporation, housing starts, under 
 federal,housing,"Housing suitability and dwelling condition, by tenure including social and affordable housing, 2018, inactive",Statistics Canada | Statistique Canada,2023-01-17T20:06:49.082994,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/dc6fb53b-624f-4721-8056-764b9d76be8f
 federal,housing,"Canada Mortgage and Housing Corporation, housing starts, all areas, seasonally adjusted at annual rates",Statistics Canada | Statistique Canada,2023-01-17T21:04:46.133036,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/a5b5672c-ddc8-449c-8473-ff98e0b666a7
 federal,housing,Housing and transportation cost index,Statistics Canada | Statistique Canada,2025-06-06T12:47:27.564978,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/b909548e-9271-4551-855c-432d0db66ae8
-federal,housing,"New housing price index, monthly",Statistics Canada | Statistique Canada,2026-09-17T12:48:43.877888,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/324befd1-893b-42e6-bece-6d30af3dd9f1
+federal,housing,"New housing price index, monthly",Statistics Canada | Statistique Canada,2026-10-22T17:37:30.102458,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/324befd1-893b-42e6-bece-6d30af3dd9f1
 federal,housing,"Housing Economic Account, environmental perspective",Statistics Canada | Statistique Canada,2026-04-09T12:46:36.080848,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/eafee11e-d91e-4a0f-8fed-f9480b8bf17d
 federal,housing,"Core housing need, by tenure including first-time homebuyer and social and affordable housing status",Statistics Canada | Statistique Canada,2026-09-21T12:48:42.471091,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/721877d8-d7d2-471a-8b8a-c67c77b4e5f8
 federal,housing,"Canada Mortgage and Housing Corporation, preliminary housing starts, all areas, seasonally adjusted at annual rates",Statistics Canada | Statistique Canada,2023-01-17T23:18:24.415817,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/7cfc7525-4b97-4705-8400-5a7293bd15cf
@@ -50,8 +50,8 @@ federal,housing,"Canada Mortgage and Housing Corporation, housing starts, all ar
 federal,housing,Canadian Housing Survey: Public Use Microdata File,Statistics Canada | Statistique Canada,2021-03-09T13:50:33.840505,"HTML,TXT",https://open.canada.ca/data/en/dataset/def2b68f-d5c6-4134-82f8-db6660065029
 federal,housing,"Housing starts, all areas, Canada and provinces",Canada Mortgage and Housing Corporation | Société canadienne d'hypothèques et de logement,2026-09-16T15:16:47.708542,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/a1361030-c554-4bf1-83fb-42392c03e1da
 nova_scotia,housing,Public Housing Units - Nova Scotia Seniors Locations,,2025-05-16T18:53:16.000Z,map,https://data.novascotia.ca/d/2it9-2f4a
-nova_scotia,housing,[ARCHIVED] Census Housing Dwelling Characteristics,,2020-01-06T14:08:32.000Z,dataset,https://data.novascotia.ca/d/qtxk-xxni
 nova_scotia,housing,Public Housing Units - Nova Scotia Seniors,,2025-05-16T18:52:35.000Z,dataset,https://data.novascotia.ca/d/2d4m-9e6x
+nova_scotia,housing,[ARCHIVED] Census Housing Dwelling Characteristics,,2020-01-06T14:08:32.000Z,dataset,https://data.novascotia.ca/d/qtxk-xxni
 nova_scotia,housing,[ARCHIVED] NHS Housing Dwelling Characteristics,,2020-01-06T15:43:27.000Z,dataset,https://data.novascotia.ca/d/qs6a-h4gh
 nova_scotia,housing,Public Housing Units - Nova Scotia Families,,2025-05-16T18:48:40.000Z,dataset,https://data.novascotia.ca/d/nxzm-xxps
 nova_scotia,housing,Public Housing Units - Nova Scotia Families Locations,,2025-05-16T18:50:50.000Z,map,https://data.novascotia.ca/d/h9hq-4rua
@@ -59,9 +59,9 @@ nova_scotia,housing,Nova Scotia House of Assembly Petitions and Correspondence,,
 nova_scotia,housing,Public Housing Units - Nova Scotia Seniors: Total by County,,2025-05-16T18:53:36.000Z,chart,https://data.novascotia.ca/d/bn97-kn4d
 nova_scotia,housing,Public Housing Units - Nova Scotia Families: Total by County,,2025-05-16T18:51:59.000Z,chart,https://data.novascotia.ca/d/qryv-qph2
 nova_scotia,housing,Department of Municipal Affairs and Housing Funding Programs by Year,,2025-02-11T14:23:39.000Z,chart,https://data.novascotia.ca/d/vqgq-ff7h
-nova_scotia,housing,Nova Scotia Members of the Legislative Assembly (MLAs) from 1867 to the Present,,2024-09-19T15:56:52.000Z,dataset,https://data.novascotia.ca/d/kbqf-dmdt
-nova_scotia,housing,Nova Scotia Museum - Locations Map,,2026-06-22T11:11:38.000Z,map,https://data.novascotia.ca/d/57fm-m8a8
 nova_scotia,housing,Nova Scotia Museum - Locations,,2026-06-22T11:11:38.000Z,dataset,https://data.novascotia.ca/d/f84a-3hfv
+nova_scotia,housing,Nova Scotia Museum - Locations Map,,2026-06-22T11:11:38.000Z,map,https://data.novascotia.ca/d/57fm-m8a8
+nova_scotia,housing,Nova Scotia Members of the Legislative Assembly (MLAs) from 1867 to the Present,,2024-09-19T15:56:52.000Z,dataset,https://data.novascotia.ca/d/kbqf-dmdt
 nova_scotia,housing,Municipal Affairs Funding Programs,,2025-02-11T14:21:38.000Z,dataset,https://data.novascotia.ca/d/5rgt-der6
 nova_scotia,housing,Bills introduced in the Nova Scotia Legislature,,2026-09-21T18:07:29.000Z,dataset,https://data.novascotia.ca/d/iz5x-dzyf
 nova_scotia,housing,Number of MLAs by Party - Last 10 years,,2024-09-19T15:56:52.000Z,chart,https://data.novascotia.ca/d/qa7h-nxqt
@@ -133,9 +133,9 @@ nova_scotia,property assessment,Municipal Property Tax Rates: Average Property T
 nova_scotia,property assessment,Municipal Property Tax Rates: Average Property Tax Rate by Area Type -- Commercial,,2026-02-24T12:08:46.000Z,chart,https://data.novascotia.ca/d/xew8-442g
 nova_scotia,property assessment,"Census, Assessment and Poll Tax Records 1767-1838",,2025-04-29T13:07:55.000Z,dataset,https://data.novascotia.ca/d/ujzw-3aqh
 nova_scotia,property assessment,Nova Scotia Power Grant In Lieu,,2026-03-26T12:46:35.000Z,dataset,https://data.novascotia.ca/d/55vh-eiuw
-nova_scotia,property assessment,Nova Scotia Power Assessment Value and Grant In Lieu for Towns by Year,,2026-03-26T12:46:35.000Z,chart,https://data.novascotia.ca/d/vvn3-zf7m
 nova_scotia,property assessment,Farm Land Grant,,2026-03-26T12:38:06.000Z,dataset,https://data.novascotia.ca/d/wjfn-w2pv
 nova_scotia,property assessment,Nova Scotia Power Assessment Value and Grant In Lieu for Regional Municipalities by Year,,2026-03-26T12:46:35.000Z,chart,https://data.novascotia.ca/d/f5ib-9h8d
+nova_scotia,property assessment,Nova Scotia Power Assessment Value and Grant In Lieu for Towns by Year,,2026-03-26T12:46:35.000Z,chart,https://data.novascotia.ca/d/vvn3-zf7m
 nova_scotia,property assessment,Nova Scotia Power Assessment Value and Grant In Lieu for Rural Municipalities by Year,,2026-03-26T12:46:35.000Z,chart,https://data.novascotia.ca/d/549n-w37h
 nova_scotia,property assessment,Municipal General Operating Revenues by Source - 10 Years Summary,,2026-01-16T12:59:27.000Z,dataset,https://data.novascotia.ca/d/5r87-wtae
 nova_scotia,property assessment,Nova Scotia Mineral Resources Development Fund (MRDF) Grant Recipients,,2026-10-08T13:44:49.000Z,dataset,https://data.novascotia.ca/d/iz26-kkmn
@@ -247,7 +247,7 @@ federal,real estate,"Finance, Defense and Public Administration",Natural Resourc
 federal,real estate,Personalized order for the 2021 census from the Real Estate and Housing Strategy Department,Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-05-27T16:11:47.084514,"CSV,HTML,OTHER,PNG",https://open.canada.ca/data/en/dataset/d70cf7d7-0f8f-4c24-a3fa-b8569de5bffe
 federal,real estate,Radon action guide for provinces and territories: Overview,Health Canada | Santé Canada,2023-06-30T16:41:56.296323,HTML,https://open.canada.ca/data/en/dataset/f10eaa7f-5b61-4d49-9a73-b334aa7cc718
 federal,real estate,"Convicted offenders - health, maintenance and housing security",Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-05-27T16:06:18.254134,"CSV,HTML",https://open.canada.ca/data/en/dataset/5c627001-5945-4769-bd8a-41a1cb6065df
-federal,real estate,Health inspections from the Real Estate and Housing Strategy Department,Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-10-14T17:38:20.103117,"CSV,GEOJSON,HTML,ZIP",https://open.canada.ca/data/en/dataset/e166ecc3-f139-4c77-9855-0e0d43865397
+federal,real estate,Health inspections from the Real Estate and Housing Strategy Department,Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-10-21T18:02:47.553427,"CSV,GEOJSON,HTML,ZIP",https://open.canada.ca/data/en/dataset/e166ecc3-f139-4c77-9855-0e0d43865397
 federal,real estate,Household and Dwelling Profiles 2021,Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-05-27T16:08:40.174106,HTML,https://open.canada.ca/data/en/dataset/8e35e633-cec1-44c2-9a88-8aca9f41e3fd
 federal,real estate,Invest Nova Scotia Incubation Resident Companies,Government of Nova Scotia | Gouvernment de la Nouvelle-Écosse,2026-04-17T15:30:35.332190,"CSV,HTML,OTHER,RDF,RSS,XML",https://open.canada.ca/data/en/dataset/8dbc4be2-18c9-fbcd-abbc-f27f0c88ea1f
 federal,real estate,Retirement abroad: seeing the sunsets,Global Affairs Canada | Affaires mondiales Canada,2026-09-23T13:12:36.701161,PDF,https://open.canada.ca/data/en/dataset/a01aba94-4ab6-4814-bd01-c446742d5c5d
@@ -272,7 +272,7 @@ federal,real estate,"Consumer goods rental, methods used by businesses locations
 federal,real estate,"Consumer goods rental, e-commerce sales",Statistics Canada | Statistique Canada,2023-01-17T23:11:49.122938,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/19fd4894-eac8-46d5-8a80-d059cdba2a1c
 federal,real estate,"Automotive equipment rental and leasing, methods used by businesses locations that reported e-commerce sales",Statistics Canada | Statistique Canada,2023-01-17T20:27:39.272851,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/da67eeeb-6a3b-455f-9a6f-7e98810343d8
 federal,real estate,2025—Report 3 of the Auditor General of Canada—Current and Future Use of Federal Office Space,Office of the Auditor General of Canada | Bureau du vérificateur général du Canada,2026-04-09T16:38:11.315915,"HTML,PDF",https://open.canada.ca/data/en/dataset/570f23a7-2c58-4fa9-bfc9-8685d2b62428
-federal,real estate,Heritage sites declared by the Government of Quebec,Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-10-14T17:32:24.721656,"CSV,GEOJSON,HTML",https://open.canada.ca/data/en/dataset/b35078ae-f1a6-4f9a-a9d2-b00244ae1e84
+federal,real estate,Heritage sites declared by the Government of Quebec,Government and Municipalities of Québec | Gouvernement et municipalités du Québec,2026-10-21T17:33:48.317146,"CSV,GEOJSON,HTML",https://open.canada.ca/data/en/dataset/b35078ae-f1a6-4f9a-a9d2-b00244ae1e84
 federal,real estate,"Consumer goods rental, summary statistics",Statistics Canada | Statistique Canada,2025-10-02T13:20:11.841452,"CSV,HTML,XML",https://open.canada.ca/data/en/dataset/88e041fc-6c33-44c7-8de9-24781c3528c1
-federal,real estate,BC Government Owned and Leased Properties,Government of British Columbia | Gouvernment de la Colombie-Britannique,2026-07-15T17:01:03.611403,"CSV,HTML,XLSX",https://open.canada.ca/data/en/dataset/fa25ff2c-be2f-41a5-97d9-6d34afa74754
+federal,real estate,BC Government Owned and Leased Properties,Government of British Columbia | Gouvernment de la Colombie-Britannique,2026-10-21T17:01:02.875338,"CSV,HTML,XLSX",https://open.canada.ca/data/en/dataset/fa25ff2c-be2f-41a5-97d9-6d34afa74754
 nova_scotia,real estate,Invest Nova Scotia Incubation Resident Companies,,2025-04-25T11:10:03.000Z,dataset,https://data.novascotia.ca/d/qhzg-5qkx
